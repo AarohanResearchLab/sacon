@@ -1,0 +1,19 @@
+
+
+
+
+
+
+
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>St. ANC - Events</title>
+		<link>http://sacon.edu.in/events/</link>
+		<description>My WordPress Blog - Events</description>
+		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
+		<pubDate>Fri, 21 Feb 2020 13:34:40 +0000</pubDate>
+		<atom:link href="http://sacon.edu.in/events/feed/" rel="self" type="application/rss+xml" />
+				
+	</channel>
+</rss>

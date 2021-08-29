@@ -1,0 +1,2904 @@
+Uri: http://sacon.edu.in/
+File Name: C:\Downloaded Web Sites\sacon.edu.in\index.htm
+Content Type: text/html
+
+Uri: http://sacon.edu.in/wp-content/uploads/2020/01/NATIONAL-CONFERENCE.jpg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\2020\01\NATIONAL-CONFERENCE.jpg
+Content Type: image/jpeg
+
+Uri: http://sacon.edu.in/wp-content/uploads/2020/01/ORGAN-DONATION-STREET-PLAY.jpg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\2020\01\ORGAN-DONATION-STREET-PLAY.jpg
+Content Type: image/jpeg
+
+Uri: http://sacon.edu.in/wp-content/uploads/2020/01/NATIONAL-CONFERENCE-3.jpg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\2020\01\NATIONAL-CONFERENCE-3.jpg
+Content Type: image/jpeg
+
+Uri: http://sacon.edu.in/wp-content/uploads/2020/01/Yoga-Day.jpg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\2020\01\Yoga-Day.jpg
+Content Type: image/jpeg
+
+Uri: http://sacon.edu.in/wp-content/uploads/2020/01/NATIONAL-CONFERENCE-1.jpg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\2020\01\NATIONAL-CONFERENCE-1.jpg
+Content Type: image/jpeg
+
+Uri: http://sacon.edu.in/wp-content/uploads/2020/01/ORGAN-DONATION-STREET-PLAY-1.jpg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\2020\01\ORGAN-DONATION-STREET-PLAY-1.jpg
+Content Type: image/jpeg
+
+Uri: http://sacon.edu.in/wp-content/uploads/2020/01/Tree-Plantation.jpg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\2020\01\Tree-Plantation.jpg
+Content Type: image/jpeg
+
+Uri: http://sacon.edu.in/wp-content/uploads/2020/01/1ST-YR-INDUCTION-PROGRAMME.jpg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\2020\01\1ST-YR-INDUCTION-PROGRAMME.jpg
+Content Type: image/jpeg
+
+Uri: http://sacon.edu.in/wp-content/uploads/2020/01/ANAMTOMY-LAB.jpg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\2020\01\ANAMTOMY-LAB.jpg
+Content Type: image/jpeg
+
+Uri: http://sacon.edu.in/wp-content/uploads/2020/01/ANAMTOMY-LAB-1.jpg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\2020\01\ANAMTOMY-LAB-1.jpg
+Content Type: image/jpeg
+
+Uri: http://sacon.edu.in/wp-content/uploads/2020/01/FON-LAB.jpg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\2020\01\FON-LAB.jpg
+Content Type: image/jpeg
+
+Uri: http://sacon.edu.in/wp-content/uploads/2020/01/FON-LAB-1.jpg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\2020\01\FON-LAB-1.jpg
+Content Type: image/jpeg
+
+Uri: http://sacon.edu.in/wp-content/uploads/2020/01/ORGAN-DONATION-POSTER-COMPITATION..jpg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\2020\01\ORGAN-DONATION-POSTER-COMPITATION..jpg
+Content Type: image/jpeg
+
+Uri: http://sacon.edu.in/wp-content/uploads/2020/02/Lamp-Lighting-Ceremony-2.jpg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\2020\02\Lamp-Lighting-Ceremony-2.jpg
+Content Type: image/jpeg
+
+Uri: http://sacon.edu.in/wp-content/uploads/2020/02/Lamp-Lighting-Ceremony.jpg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\2020\02\Lamp-Lighting-Ceremony.jpg
+Content Type: image/jpeg
+
+Uri: http://sacon.edu.in/wp-content/uploads/2020/02/Lamp-Lighting-Ceremony-1.jpg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\2020\02\Lamp-Lighting-Ceremony-1.jpg
+Content Type: image/jpeg
+
+Uri: https://gmpg.org/xfn/11
+File Name: C:\Downloaded Web Sites\sacon.edu.in\xfn\11.html
+Content Type: text/html
+
+Uri: http://sacon.edu.in/feed/
+File Name: C:\Downloaded Web Sites\sacon.edu.in\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: http://sacon.edu.in/comments/feed/
+File Name: C:\Downloaded Web Sites\sacon.edu.in\comments\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: http://sacon.edu.in/wp-includes/css/dist/block-library/style.min.css?ver=5.3.2
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-includes\css\dist\block-library\style.min.css
+Content Type: text/css
+
+Uri: http://sacon.edu.in/wp-includes/css/dist/block-library/theme.min.css?ver=5.3.2
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-includes\css\dist\block-library\theme.min.css
+Content Type: text/css
+
+Uri: http://sacon.edu.in/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.2.2
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\plugins\contact-form-7\includes\css\styles.css
+Content Type: text/css
+
+Uri: http://sacon.edu.in/wp-content/plugins/events-manager/includes/css/events_manager.css?ver=5.981
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\plugins\events-manager\includes\css\events_manager.css
+Content Type: text/css
+
+Uri: http://sacon.edu.in/wp-content/uploads/essential-addons-elementor/cb70d11b8.min.css?ver=1627888397
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\essential-addons-elementor\cb70d11b8.min.css
+Content Type: text/css
+
+Uri: http://sacon.edu.in/wp-content/plugins/header-footer-elementor/assets/css/header-footer-elementor.css?ver=1.5.3
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\plugins\header-footer-elementor\assets\css\header-footer-elementor.css
+Content Type: text/css
+
+Uri: http://sacon.edu.in/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.9.1
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\plugins\elementor\assets\lib\eicons\css\elementor-icons.min.css
+Content Type: text/css
+
+Uri: http://sacon.edu.in/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=3.0.13
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\plugins\elementor\assets\lib\animations\animations.min.css
+Content Type: text/css
+
+Uri: http://sacon.edu.in/wp-content/plugins/elementor/assets/css/frontend-legacy.min.css?ver=3.0.13
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\plugins\elementor\assets\css\frontend-legacy.min.css
+Content Type: text/css
+
+Uri: http://sacon.edu.in/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=3.0.13
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\plugins\elementor\assets\css\frontend.min.css
+Content Type: text/css
+
+Uri: http://sacon.edu.in/wp-content/uploads/elementor/css/post-2077.css?ver=1604579370
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\elementor\css\post-2077.css
+Content Type: text/css
+
+Uri: http://sacon.edu.in/wp-content/plugins/elementor-pro/assets/css/frontend.min.css?ver=2.8.3
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\plugins\elementor-pro\assets\css\frontend.min.css
+Content Type: text/css
+
+Uri: http://sacon.edu.in/wp-content/plugins/jetsticky-for-elementor/assets/css/jet-sticky-frontend.css?ver=1.0.1
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\plugins\jetsticky-for-elementor\assets\css\jet-sticky-frontend.css
+Content Type: text/css
+
+Uri: http://sacon.edu.in/wp-content/uploads/elementor/css/global.css?ver=1604579371
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\elementor\css\global.css
+Content Type: text/css
+
+Uri: http://sacon.edu.in/wp-content/uploads/elementor/css/post-6.css?ver=1604583111
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\elementor\css\post-6.css
+Content Type: text/css
+
+Uri: http://sacon.edu.in/wp-content/plugins/header-footer-elementor/inc/widgets-css/frontend.css?ver=1.5.3
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\plugins\header-footer-elementor\inc\widgets-css\frontend.css
+Content Type: text/css
+
+Uri: http://sacon.edu.in/wp-content/uploads/elementor/css/post-188.css?ver=1604579371
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\elementor\css\post-188.css
+Content Type: text/css
+
+Uri: http://sacon.edu.in/wp-content/uploads/elementor/css/post-166.css?ver=1604579371
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\elementor\css\post-166.css
+Content Type: text/css
+
+Uri: http://sacon.edu.in/wp-content/plugins/ht-mega-for-elementor/assets/css/htbbootstrap.css?ver=1.4.7
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\plugins\ht-mega-for-elementor\assets\css\htbbootstrap.css
+Content Type: text/css
+
+Uri: http://sacon.edu.in/wp-content/plugins/ht-mega-for-elementor/assets/css/htmega-widgets.css?ver=1.4.7
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\plugins\ht-mega-for-elementor\assets\css\htmega-widgets.css
+Content Type: text/css
+
+Uri: http://sacon.edu.in/wp-content/themes/oceanwp/assets/fonts/fontawesome/css/all.min.css?ver=5.11.2
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\themes\oceanwp\assets\fonts\fontawesome\css\all.min.css
+Content Type: text/css
+
+Uri: http://sacon.edu.in/wp-content/plugins/ht-mega-for-elementor/assets/css/animation.css?ver=1.4.7
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\plugins\ht-mega-for-elementor\assets\css\animation.css
+Content Type: text/css
+
+Uri: http://sacon.edu.in/wp-content/plugins/ht-mega-for-elementor/assets/css/htmega-keyframes.css?ver=1.4.7
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\plugins\ht-mega-for-elementor\assets\css\htmega-keyframes.css
+Content Type: text/css
+
+Uri: http://sacon.edu.in/wp-content/themes/oceanwp/assets/css/third/simple-line-icons.min.css?ver=2.4.0
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\themes\oceanwp\assets\css\third\simple-line-icons.min.css
+Content Type: text/css
+
+Uri: http://sacon.edu.in/wp-content/plugins/ht-mega-for-elementor/assets/css/magnific-popup.css?ver=1.4.7
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\plugins\ht-mega-for-elementor\assets\css\magnific-popup.css
+Content Type: text/css
+
+Uri: http://sacon.edu.in/wp-content/plugins/ht-mega-for-elementor/assets/css/slick.min.css?ver=1.4.7
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\plugins\ht-mega-for-elementor\assets\css\slick.min.css
+Content Type: text/css
+
+Uri: http://sacon.edu.in/wp-content/themes/oceanwp/assets/css/style.min.css?ver=1.9.0
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\themes\oceanwp\assets\css\style.min.css
+Content Type: text/css
+
+Uri: http://fonts.googleapis.com/css?family=Poppins:100%2C200%2C300%2C400%2C500%2C600%2C700%2C800%2C900%2C100i%2C200i%2C300i%2C400i%2C500i%2C600i%2C700i%2C800i%2C900i&subset=latin&ver=5.3.2
+File Name: C:\Downloaded Web Sites\sacon.edu.in\css.css
+Content Type: text/css
+
+Uri: http://sacon.edu.in/wp-content/plugins/jetwidgets-for-elementor/cherry-framework/modules/cherry-handler/assets/css/cherry-handler-styles.min.css?ver=1.5.8
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\plugins\jetwidgets-for-elementor\cherry-framework\modules\cherry-handler\assets\css\cherry-handler-styles.min.css
+Content Type: text/css
+
+Uri: http://sacon.edu.in/wp-content/plugins/jetwidgets-for-elementor/assets/css/jet-widgets.css?ver=1.0.7
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\plugins\jetwidgets-for-elementor\assets\css\jet-widgets.css
+Content Type: text/css
+
+Uri: http://sacon.edu.in/wp-content/plugins/jetwidgets-for-elementor/assets/css/jet-widgets-skin.css?ver=1.0.7
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\plugins\jetwidgets-for-elementor\assets\css\jet-widgets-skin.css
+Content Type: text/css
+
+Uri: http://sacon.edu.in/wp-content/plugins/jetwidgets-for-elementor/assets/css/lib/juxtapose/juxtapose.css?ver=1.3.0
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\plugins\jetwidgets-for-elementor\assets\css\lib\juxtapose\juxtapose.css
+Content Type: text/css
+
+Uri: http://sacon.edu.in/wp-content/uploads/elementor/css/post-2086.css?ver=1604583111
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\elementor\css\post-2086.css
+Content Type: text/css
+
+Uri: http://sacon.edu.in/wp-content/uploads/elementor/css/post-2082.css?ver=1604583111
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\elementor\css\post-2082.css
+Content Type: text/css
+
+Uri: http://sacon.edu.in/wp-content/plugins/cf7-conditional-fields/style.css?ver=1.9.14
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\plugins\cf7-conditional-fields\style.css
+Content Type: text/css
+
+Uri: http://sacon.edu.in/wp-content/plugins/ocean-extra/assets/css/widgets.css?ver=5.3.2
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\plugins\ocean-extra\assets\css\widgets.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Roboto+Slab:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Poppins:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&ver=5.3.2
+File Name: C:\Downloaded Web Sites\sacon.edu.in\css-1.css
+Content Type: text/css
+
+Uri: http://sacon.edu.in/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.12.0
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\plugins\elementor\assets\lib\font-awesome\css\fontawesome.min.css
+Content Type: text/css
+
+Uri: http://sacon.edu.in/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.12.0
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\plugins\elementor\assets\lib\font-awesome\css\solid.min.css
+Content Type: text/css
+
+Uri: http://sacon.edu.in/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min.css?ver=5.12.0
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\plugins\elementor\assets\lib\font-awesome\css\brands.min.css
+Content Type: text/css
+
+Uri: http://sacon.edu.in/wp-content/plugins/smart-slider-3/Public/SmartSlider3/Application/Frontend/Assets/dist/smartslider.min.css?ver=843132f5
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\plugins\smart-slider-3\Public\SmartSlider3\Application\Frontend\Assets\dist\smartslider.min.css
+Content Type: text/css
+
+Uri: http://sacon.edu.in/wp-json/
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-json\index.htm.json
+Content Type: application/json
+
+Uri: http://sacon.edu.in/wp-includes/wlwmanifest.xml
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-includes\wlwmanifest.xml
+Content Type: application/xml
+
+Uri: http://sacon.edu.in/wp-json/oembed/1.0/embed?url=http:%2F%2Fsacon.edu.in%2F
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-json\oembed\1.0\embed.json
+Content Type: application/json
+
+Uri: http://sacon.edu.in/wp-json/oembed/1.0/embed?url=http:%2F%2Fsacon.edu.in%2F&format=xml
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-json\oembed\1.0\embed.xml
+Content Type: text/xml
+
+Uri: http://sacon.edu.in/wp-content/uploads/2019/09/cropped-logo-1-32x32.png
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\2019\09\cropped-logo-1-32x32.png
+Content Type: image/png
+
+Uri: http://sacon.edu.in/wp-content/uploads/2019/09/cropped-logo-1-192x192.png
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\2019\09\cropped-logo-1-192x192.png
+Content Type: image/png
+
+Uri: http://sacon.edu.in/wp-content/uploads/2019/09/cropped-logo-1-180x180.png
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\2019\09\cropped-logo-1-180x180.png
+Content Type: image/png
+
+Uri: http://sacon.edu.in/about-us/
+File Name: C:\Downloaded Web Sites\sacon.edu.in\about-us\index.htm
+Content Type: text/html
+
+Uri: http://sacon.edu.in/program/
+File Name: C:\Downloaded Web Sites\sacon.edu.in\program\index.htm
+Content Type: text/html
+
+Uri: http://sacon.edu.in/program/bbsc-nursing/
+File Name: C:\Downloaded Web Sites\sacon.edu.in\program\bbsc-nursing\index.htm
+Content Type: text/html
+
+Uri: http://sacon.edu.in/program/msc-nursing/
+File Name: C:\Downloaded Web Sites\sacon.edu.in\program\msc-nursing\index.htm
+Content Type: text/html
+
+Uri: http://sacon.edu.in/program/pbbsc-nursing/
+File Name: C:\Downloaded Web Sites\sacon.edu.in\program\pbbsc-nursing\index.htm
+Content Type: text/html
+
+Uri: http://sacon.edu.in/students/student-details/
+File Name: C:\Downloaded Web Sites\sacon.edu.in\students\student-details\index.htm
+Content Type: text/html
+
+Uri: http://sacon.edu.in/students/student-details/bbsc-nursing/
+File Name: C:\Downloaded Web Sites\sacon.edu.in\students\student-details\bbsc-nursing\index.htm
+Content Type: text/html
+
+Uri: http://sacon.edu.in/students/student-details/pbsc-nursing/
+File Name: C:\Downloaded Web Sites\sacon.edu.in\students\student-details\pbsc-nursing\index.htm
+Content Type: text/html
+
+Uri: http://sacon.edu.in/students/sna-activities/
+File Name: C:\Downloaded Web Sites\sacon.edu.in\students\sna-activities\index.htm
+Content Type: text/html
+
+Uri: http://sacon.edu.in/gallery/
+File Name: C:\Downloaded Web Sites\sacon.edu.in\gallery\index.htm
+Content Type: text/html
+
+Uri: http://sacon.edu.in/external/
+File Name: C:\Downloaded Web Sites\sacon.edu.in\external\index.htm
+Content Type: text/html
+
+Uri: http://sacon.edu.in/full-time/
+File Name: C:\Downloaded Web Sites\sacon.edu.in\full-time\index.htm
+Content Type: text/html
+
+Uri: http://sacon.edu.in/admissions/
+File Name: C:\Downloaded Web Sites\sacon.edu.in\admissions\index.htm
+Content Type: text/html
+
+Uri: http://sacon.edu.in/admissions/bbsc-nursing/
+File Name: C:\Downloaded Web Sites\sacon.edu.in\admissions\bbsc-nursing\index.htm
+Content Type: text/html
+
+Uri: http://sacon.edu.in/admissions/msc-nursing/
+File Name: C:\Downloaded Web Sites\sacon.edu.in\admissions\msc-nursing\index.htm
+Content Type: text/html
+
+Uri: http://sacon.edu.in/admissions/pbbsc-nursing/
+File Name: C:\Downloaded Web Sites\sacon.edu.in\admissions\pbbsc-nursing\index.htm
+Content Type: text/html
+
+Uri: http://sacon.edu.in/scholarship/ishyanya-foundation/
+File Name: C:\Downloaded Web Sites\sacon.edu.in\scholarship\ishyanya-foundation\index.htm
+Content Type: text/html
+
+Uri: http://sacon.edu.in/scholarship/lpf/
+File Name: C:\Downloaded Web Sites\sacon.edu.in\scholarship\lpf\index.htm
+Content Type: text/html
+
+Uri: http://sacon.edu.in/scholarship/ministry-of-minority-affairs/
+File Name: C:\Downloaded Web Sites\sacon.edu.in\scholarship\ministry-of-minority-affairs\index.htm
+Content Type: text/html
+
+Uri: http://sacon.edu.in/scholarship/savitribai-phule/
+File Name: C:\Downloaded Web Sites\sacon.edu.in\scholarship\savitribai-phule\index.htm
+Content Type: text/html
+
+Uri: http://sacon.edu.in/academic/academic-calender/
+File Name: C:\Downloaded Web Sites\sacon.edu.in\academic\academic-calender\index.htm
+Content Type: text/html
+
+Uri: http://sacon.edu.in/community-outreach/activities/co-curricular/
+File Name: C:\Downloaded Web Sites\sacon.edu.in\community-outreach\activities\co-curricular\index.htm
+Content Type: text/html
+
+Uri: http://sacon.edu.in/community-outreach/activities/extra-curricular/
+File Name: C:\Downloaded Web Sites\sacon.edu.in\community-outreach\activities\extra-curricular\index.htm
+Content Type: text/html
+
+Uri: http://sacon.edu.in/community-outreach/health-camp/
+File Name: C:\Downloaded Web Sites\sacon.edu.in\community-outreach\health-camp\index.htm
+Content Type: text/html
+
+Uri: http://sacon.edu.in/community-outreach/nss-activities/
+File Name: C:\Downloaded Web Sites\sacon.edu.in\community-outreach\nss-activities\index.htm
+Content Type: text/html
+
+Uri: http://sacon.edu.in/contact/
+File Name: C:\Downloaded Web Sites\sacon.edu.in\contact\index.htm
+Content Type: text/html
+
+Uri: http://sacon.edu.in/enquiry/
+File Name: C:\Downloaded Web Sites\sacon.edu.in\enquiry\index.htm
+Content Type: text/html
+
+Uri: http://sacon.edu.in/scholarship/
+File Name: C:\Downloaded Web Sites\sacon.edu.in\scholarship\index.htm
+Content Type: text/html
+
+Uri: http://sacon.edu.in/community-outreach/
+File Name: C:\Downloaded Web Sites\sacon.edu.in\community-outreach\index.htm
+Content Type: text/html
+
+Uri: http://sacon.edu.in/community-outreach/activities/
+File Name: C:\Downloaded Web Sites\sacon.edu.in\community-outreach\activities\index.htm
+Content Type: text/html
+
+Uri: http://sacon.edu.in/notice/christmas-holiday-on-25th-dec/
+File Name: C:\Downloaded Web Sites\sacon.edu.in\notice\christmas-holiday-on-25th-dec\index.htm
+Content Type: text/html
+
+Uri: http://sacon.edu.in/notice/guru-nanak-jayanti-on-12th-nov-2019/
+File Name: C:\Downloaded Web Sites\sacon.edu.in\notice\guru-nanak-jayanti-on-12th-nov-2019\index.htm
+Content Type: text/html
+
+Uri: http://sacon.edu.in/notice/diwali-holidays-from-26-10-2019-to-09-11-2019/
+File Name: C:\Downloaded Web Sites\sacon.edu.in\notice\diwali-holidays-from-26-10-2019-to-09-11-2019\index.htm
+Content Type: text/html
+
+Uri: http://sacon.edu.in/upcoming-events/
+File Name: C:\Downloaded Web Sites\sacon.edu.in\upcoming-events\index.htm
+Content Type: text/html
+
+Uri: http://sacon.edu.in/event/angular-tutorial/
+File Name: C:\Downloaded Web Sites\sacon.edu.in\event\angular-tutorial\index.htm
+Content Type: text/html
+
+Uri: http://sacon.edu.in/event/muhs-sport-compitition/
+File Name: C:\Downloaded Web Sites\sacon.edu.in\event\muhs-sport-compitition\index.htm
+Content Type: text/html
+
+Uri: http://sacon.edu.in/event/national-conference/
+File Name: C:\Downloaded Web Sites\sacon.edu.in\event\national-conference\index.htm
+Content Type: text/html
+
+Uri: http://sacon.edu.in/2019/09/14/hello-world-6/
+File Name: C:\Downloaded Web Sites\sacon.edu.in\2019\09\14\hello-world-6\index.htm
+Content Type: text/html
+
+Uri: http://sacon.edu.in/2019/09/14/hello-world-5/
+File Name: C:\Downloaded Web Sites\sacon.edu.in\2019\09\14\hello-world-5\index.htm
+Content Type: text/html
+
+Uri: http://sacon.edu.in/wp-includes/js/jquery/ui/mouse.min.js?ver=1.11.4
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-includes\js\jquery\ui\mouse.min.js
+Content Type: application/javascript
+
+Uri: http://sacon.edu.in/wp-includes/js/jquery/ui/sortable.min.js?ver=1.11.4
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-includes\js\jquery\ui\sortable.min.js
+Content Type: application/javascript
+
+Uri: http://sacon.edu.in/wp-includes/js/jquery/ui/datepicker.min.js?ver=1.11.4
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-includes\js\jquery\ui\datepicker.min.js
+Content Type: application/javascript
+
+Uri: http://sacon.edu.in/wp-includes/js/jquery/ui/menu.min.js?ver=1.11.4
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-includes\js\jquery\ui\menu.min.js
+Content Type: application/javascript
+
+Uri: http://sacon.edu.in/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=7.4.4
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-includes\js\dist\vendor\wp-polyfill.min.js
+Content Type: application/javascript
+
+Uri: http://sacon.edu.in/wp-includes/js/dist/dom-ready.min.js?ver=2.5.1
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-includes\js\dist\dom-ready.min.js
+Content Type: application/javascript
+
+Uri: http://sacon.edu.in/wp-includes/js/dist/a11y.min.js?ver=2.5.1
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-includes\js\dist\a11y.min.js
+Content Type: application/javascript
+
+Uri: http://sacon.edu.in/wp-includes/js/jquery/ui/autocomplete.min.js?ver=1.11.4
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-includes\js\jquery\ui\autocomplete.min.js
+Content Type: application/javascript
+
+Uri: http://sacon.edu.in/wp-includes/js/jquery/ui/resizable.min.js?ver=1.11.4
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-includes\js\jquery\ui\resizable.min.js
+Content Type: application/javascript
+
+Uri: http://sacon.edu.in/wp-includes/js/jquery/ui/draggable.min.js?ver=1.11.4
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-includes\js\jquery\ui\draggable.min.js
+Content Type: application/javascript
+
+Uri: http://sacon.edu.in/wp-includes/js/jquery/ui/button.min.js?ver=1.11.4
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-includes\js\jquery\ui\button.min.js
+Content Type: application/javascript
+
+Uri: http://sacon.edu.in/wp-includes/js/jquery/ui/dialog.min.js?ver=1.11.4
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-includes\js\jquery\ui\dialog.min.js
+Content Type: application/javascript
+
+Uri: http://sacon.edu.in/wp-content/plugins/events-manager/includes/js/events-manager.js?ver=5.981
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\plugins\events-manager\includes\js\events-manager.js
+Content Type: application/javascript
+
+Uri: http://sacon.edu.in/wp-content/plugins/smart-slider-3/Public/SmartSlider3/Application/Frontend/Assets/dist/n2.min.js?ver=843132f5
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\plugins\smart-slider-3\Public\SmartSlider3\Application\Frontend\Assets\dist\n2.min.js
+Content Type: application/javascript
+
+Uri: http://sacon.edu.in/wp-content/plugins/smart-slider-3/Public/SmartSlider3/Application/Frontend/Assets/dist/smartslider-frontend.min.js?ver=843132f5
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\plugins\smart-slider-3\Public\SmartSlider3\Application\Frontend\Assets\dist\smartslider-frontend.min.js
+Content Type: application/javascript
+
+Uri: http://sacon.edu.in/wp-content/plugins/smart-slider-3/Public/SmartSlider3/Slider/SliderType/Simple/Assets/dist/smartslider-simple-type-frontend.min.js?ver=843132f5
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\plugins\smart-slider-3\Public\SmartSlider3\Slider\SliderType\Simple\Assets\dist\smartslider-simple-type-frontend.min.js
+Content Type: application/javascript
+
+Uri: http://sacon.edu.in/wp-content/plugins/smart-slider-3/Public/SmartSlider3/Application/Frontend/Assets/dist/nextend-webfontloader.min.js?ver=843132f5
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\plugins\smart-slider-3\Public\SmartSlider3\Application\Frontend\Assets\dist\nextend-webfontloader.min.js
+Content Type: application/javascript
+
+Uri: http://sacon.edu.in/wp-content/uploads/elementor/thumbs/logo-1-ofopz5j425ri3umnb13nj9nnev0u7vuysj4sqfcv7k.png
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\elementor\thumbs\logo-1-ofopz5j425ri3umnb13nj9nnev0u7vuysj4sqfcv7k.png
+Content Type: image/png
+
+Uri: http://sacon.edu.in/wp-content/uploads/elementor/thumbs/logo-1-ofopz5j425r3s8hn9s0xkakn563wbrh4z3abbcsef4.png
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\elementor\thumbs\logo-1-ofopz5j425r3s8hn9s0xkakn563wbrh4z3abbcsef4.png
+Content Type: image/png
+
+Uri: http://sacon.edu.in/wp-content/uploads/2019/09/hp2-col-1-icon.png
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\2019\09\hp2-col-1-icon.png
+Content Type: image/png
+
+Uri: http://sacon.edu.in/wp-content/uploads/2019/10/15-1024x681.jpg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\2019\10\15-1024x681.jpg
+Content Type: image/jpeg
+
+Uri: http://sacon.edu.in/wp-content/uploads/2019/09/book.png
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\2019\09\book.png
+Content Type: image/png
+
+Uri: http://sacon.edu.in/wp-content/uploads/2019/10/adult-blur-class-239548.jpg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\2019\10\adult-blur-class-239548.jpg
+Content Type: image/jpeg
+
+Uri: http://sacon.edu.in/wp-content/uploads/2019/09/sport-center.png
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\2019\09\sport-center.png
+Content Type: image/png
+
+Uri: http://sacon.edu.in/wp-content/uploads/elementor/thumbs/photo-for-placement-ojze0xgg8canjipd9kcdhn62yct7spocl69aio8cn6.jpg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\elementor\thumbs\photo-for-placement-ojze0xgg8canjipd9kcdhn62yct7spocl69aio8cn6.jpg
+Content Type: image/jpeg
+
+Uri: http://sacon.edu.in/wp-content/uploads/2019/09/fancycrave-270977-unsplash-900x500.jpg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\2019\09\fancycrave-270977-unsplash-900x500.jpg
+Content Type: image/jpeg
+
+Uri: http://sacon.edu.in/wp-content/uploads/2019/09/ellehem-693-unsplash-900x500.jpg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\2019\09\ellehem-693-unsplash-900x500.jpg
+Content Type: image/jpeg
+
+Uri: http://sacon.edu.in/wp-content/uploads/2019/09/tyler-callahan-662157-unsplash-900x500.jpg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\2019\09\tyler-callahan-662157-unsplash-900x500.jpg
+Content Type: image/jpeg
+
+Uri: http://sacon.edu.in/wp-content/uploads/2019/09/Capture.png
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\2019\09\Capture.png
+Content Type: image/png
+
+Uri: http://sacon.edu.in/wp-content/uploads/2019/09/envelope.png
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\2019\09\envelope.png
+Content Type: image/png
+
+Uri: http://sacon.edu.in/wp-content/uploads/elementor/thumbs/15-ofopytbewfytia1i9iygfcjs6kxxnuwg0xg99xcz10.jpg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\elementor\thumbs\15-ofopytbewfytia1i9iygfcjs6kxxnuwg0xg99xcz10.jpg
+Content Type: image/jpeg
+
+Uri: http://sacon.edu.in/wp-content/uploads/elementor/thumbs/logo-1-ofopz5j42622oh6dy0je7g5uke6zxemz3dcifgqz28.png
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\elementor\thumbs\logo-1-ofopz5j42622oh6dy0je7g5uke6zxemz3dcifgqz28.png
+Content Type: image/png
+
+Uri: http://sacon.edu.in/wp-content/plugins/jetwidgets-for-elementor/cherry-framework/modules/cherry-js-core/assets/js/min/cherry-js-core.min.js?ver=1.5.8
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\plugins\jetwidgets-for-elementor\cherry-framework\modules\cherry-js-core\assets\js\min\cherry-js-core.min.js
+Content Type: application/javascript
+
+Uri: http://sacon.edu.in/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.2.2
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\plugins\contact-form-7\includes\js\scripts.js
+Content Type: application/javascript
+
+Uri: http://sacon.edu.in/wp-content/uploads/essential-addons-elementor/cb70d11b8.min.js?ver=1627888397
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\essential-addons-elementor\cb70d11b8.min.js
+Content Type: application/javascript
+
+Uri: http://sacon.edu.in/wp-content/plugins/ht-mega-for-elementor/assets/js/popper.min.js?ver=1.4.7
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\plugins\ht-mega-for-elementor\assets\js\popper.min.js
+Content Type: application/javascript
+
+Uri: http://sacon.edu.in/wp-content/plugins/ht-mega-for-elementor/assets/js/htbbootstrap.js?ver=1.4.7
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\plugins\ht-mega-for-elementor\assets\js\htbbootstrap.js
+Content Type: application/javascript
+
+Uri: http://sacon.edu.in/wp-content/plugins/ht-mega-for-elementor/assets/js/waypoints.js?ver=1.4.7
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\plugins\ht-mega-for-elementor\assets\js\waypoints.js
+Content Type: application/javascript
+
+Uri: http://sacon.edu.in/wp-includes/js/imagesloaded.min.js?ver=3.2.0
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-includes\js\imagesloaded.min.js
+Content Type: application/javascript
+
+Uri: http://sacon.edu.in/wp-content/plugins/ht-mega-for-elementor/assets/js/jquery.magnific-popup.min.js?ver=1.4.7
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\plugins\ht-mega-for-elementor\assets\js\jquery.magnific-popup.min.js
+Content Type: application/javascript
+
+Uri: http://sacon.edu.in/wp-content/themes/oceanwp/assets/js/third/lightbox.min.js?ver=1.9.0
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\themes\oceanwp\assets\js\third\lightbox.min.js
+Content Type: application/javascript
+
+Uri: http://sacon.edu.in/wp-content/themes/oceanwp/assets/js/main.min.js?ver=1.9.0
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\themes\oceanwp\assets\js\main.min.js
+Content Type: application/javascript
+
+Uri: http://sacon.edu.in/wp-content/plugins/jetwidgets-for-elementor/cherry-framework/modules/cherry-handler/assets/js/min/cherry-handler.min.js?ver=1.5.8
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\plugins\jetwidgets-for-elementor\cherry-framework\modules\cherry-handler\assets\js\min\cherry-handler.min.js
+Content Type: application/javascript
+
+Uri: http://sacon.edu.in/wp-content/plugins/cf7-conditional-fields/js/scripts.js?ver=1.9.14
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\plugins\cf7-conditional-fields\js\scripts.js
+Content Type: application/javascript
+
+Uri: http://sacon.edu.in/wp-includes/js/wp-embed.min.js?ver=5.3.2
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-includes\js\wp-embed.min.js
+Content Type: application/javascript
+
+Uri: http://sacon.edu.in/wp-content/plugins/elementor-pro/assets/lib/smartmenus/jquery.smartmenus.min.js?ver=1.0.1
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\plugins\elementor-pro\assets\lib\smartmenus\jquery.smartmenus.min.js
+Content Type: application/javascript
+
+Uri: http://sacon.edu.in/wp-content/plugins/elementor/assets/lib/slick/slick.min.js?ver=1.8.1
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\plugins\elementor\assets\lib\slick\slick.min.js
+Content Type: application/javascript
+
+Uri: http://sacon.edu.in/wp-content/plugins/premium-addons-for-elementor/assets/frontend/min-js/premium-addons.min.js?ver=3.21.6
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\plugins\premium-addons-for-elementor\assets\frontend\min-js\premium-addons.min.js
+Content Type: application/javascript
+
+Uri: http://sacon.edu.in/wp-content/plugins/jetsticky-for-elementor/assets/js/lib/ResizeSensor.min.js?ver=1.7.0
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\plugins\jetsticky-for-elementor\assets\js\lib\ResizeSensor.min.js
+Content Type: application/javascript
+
+Uri: http://sacon.edu.in/wp-content/plugins/jetsticky-for-elementor/assets/js/lib/sticky-sidebar/sticky-sidebar.min.js?ver=3.3.1
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\plugins\jetsticky-for-elementor\assets\js\lib\sticky-sidebar\sticky-sidebar.min.js
+Content Type: application/javascript
+
+Uri: http://sacon.edu.in/wp-content/plugins/jetsticky-for-elementor/assets/js/lib/jsticky/jquery.jsticky.js?ver=1.1.0
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\plugins\jetsticky-for-elementor\assets\js\lib\jsticky\jquery.jsticky.js
+Content Type: application/javascript
+
+Uri: http://sacon.edu.in/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.0.13
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\plugins\elementor\assets\js\frontend-modules.min.js
+Content Type: application/javascript
+
+Uri: http://sacon.edu.in/wp-content/plugins/elementor-pro/assets/lib/sticky/jquery.sticky.min.js?ver=2.8.3
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\plugins\elementor-pro\assets\lib\sticky\jquery.sticky.min.js
+Content Type: application/javascript
+
+Uri: http://sacon.edu.in/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=2.8.3
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\plugins\elementor-pro\assets\js\frontend.min.js
+Content Type: application/javascript
+
+Uri: http://sacon.edu.in/wp-content/plugins/elementor/assets/lib/dialog/dialog.min.js?ver=4.8.1
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\plugins\elementor\assets\lib\dialog\dialog.min.js
+Content Type: application/javascript
+
+Uri: http://sacon.edu.in/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\plugins\elementor\assets\lib\waypoints\waypoints.min.js
+Content Type: application/javascript
+
+Uri: http://sacon.edu.in/wp-content/plugins/ht-mega-for-elementor/assets/js/swiper.min.js?ver=1.4.7
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\plugins\ht-mega-for-elementor\assets\js\swiper.min.js
+Content Type: application/javascript
+
+Uri: http://sacon.edu.in/wp-content/plugins/elementor/assets/lib/share-link/share-link.min.js?ver=3.0.13
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\plugins\elementor\assets\lib\share-link\share-link.min.js
+Content Type: application/javascript
+
+Uri: http://sacon.edu.in/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.0.13
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\plugins\elementor\assets\js\frontend.min.js
+Content Type: application/javascript
+
+Uri: http://sacon.edu.in/wp-content/plugins/jetsticky-for-elementor/assets/js/jet-sticky-frontend.js?ver=1.0.1
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\plugins\jetsticky-for-elementor\assets\js\jet-sticky-frontend.js
+Content Type: application/javascript
+
+Uri: http://sacon.edu.in/wp-content/plugins/jetwidgets-for-elementor/assets/js/jet-widgets.js?ver=1.0.7
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\plugins\jetwidgets-for-elementor\assets\js\jet-widgets.js
+Content Type: application/javascript
+
+Uri: http://sacon.edu.in/wp-content/uploads/2019/10/15-300x200.jpg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\2019\10\15-300x200.jpg
+Content Type: image/jpeg
+
+Uri: http://sacon.edu.in/wp-content/uploads/2019/10/15-768x511.jpg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\2019\10\15-768x511.jpg
+Content Type: image/jpeg
+
+Uri: http://sacon.edu.in/wp-content/uploads/2019/10/15.jpg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\2019\10\15.jpg
+Content Type: image/jpeg
+
+Uri: http://sacon.edu.in/wp-content/uploads/2019/10/adult-blur-class-239548-300x200.jpg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\2019\10\adult-blur-class-239548-300x200.jpg
+Content Type: image/jpeg
+
+Uri: http://sacon.edu.in/wp-content/uploads/2019/09/Capture-300x151.png
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\2019\09\Capture-300x151.png
+Content Type: image/png
+
+Uri: https://wordpress.org/
+File Name: C:\Downloaded Web Sites\sacon.edu.in\index-1.htm
+Content Type: text/html
+
+Uri: http://sacon.edu.in/wp-content/plugins/contact-form-7/images/ajax-loader.gif
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\plugins\contact-form-7\images\ajax-loader.gif
+Content Type: image/gif
+
+Uri: http://sacon.edu.in/wp-content/plugins/events-manager/includes/images/loading.gif
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\plugins\events-manager\includes\images\loading.gif
+Content Type: image/gif
+
+Uri: http://sacon.edu.in/wp-content/plugins/events-manager/includes/images/search-geo.png
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\plugins\events-manager\includes\images\search-geo.png
+Content Type: image/png
+
+Uri: http://sacon.edu.in/wp-content/plugins/events-manager/includes/images/search-mag-ico.png
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\plugins\events-manager\includes\images\search-mag-ico.png
+Content Type: image/png
+
+Uri: http://sacon.edu.in/wp-content/plugins/events-manager/includes/images/search-mag.png
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\plugins\events-manager\includes\images\search-mag.png
+Content Type: image/png
+
+Uri: http://sacon.edu.in/wp-content/plugins/events-manager/includes/images/csv.png
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\plugins\events-manager\includes\images\csv.png
+Content Type: image/png
+
+Uri: http://sacon.edu.in/wp-content/plugins/events-manager/includes/images/settings.png
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\plugins\events-manager\includes\images\settings.png
+Content Type: image/png
+
+Uri: http://sacon.edu.in/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5.9.1
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://sacon.edu.in/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2?5.9.1
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.woff2
+Content Type: font/woff2
+
+Uri: http://sacon.edu.in/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff?5.9.1
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.woff
+Content Type: font/woff
+
+Uri: http://sacon.edu.in/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.ttf?5.9.1
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.ttf
+Content Type: font/ttf
+
+Uri: http://sacon.edu.in/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.svg?5.9.1
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.svg
+Content Type: image/svg+xml
+
+Uri: http://sacon.edu.in/wp-content/plugins/ht-mega-for-elementor/assets/images/pricing/pricing-ribon.png
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\plugins\ht-mega-for-elementor\assets\images\pricing\pricing-ribon.png
+Content Type: image/png
+
+Uri: http://sacon.edu.in/wp-content/plugins/ht-mega-for-elementor/assets/images/icons/line.svg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\plugins\ht-mega-for-elementor\assets\images\icons\line.svg
+Content Type: image/svg+xml
+
+Uri: http://sacon.edu.in/wp-content/themes/oceanwp/assets/fonts/fontawesome/webfonts/fa-brands-400.eot
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\themes\oceanwp\assets\fonts\fontawesome\webfonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://sacon.edu.in/wp-content/themes/oceanwp/assets/fonts/fontawesome/webfonts/fa-brands-400.eot?
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\themes\oceanwp\assets\fonts\fontawesome\webfonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://sacon.edu.in/wp-content/themes/oceanwp/assets/fonts/fontawesome/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\themes\oceanwp\assets\fonts\fontawesome\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: http://sacon.edu.in/wp-content/themes/oceanwp/assets/fonts/fontawesome/webfonts/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\themes\oceanwp\assets\fonts\fontawesome\webfonts\fa-brands-400.woff
+Content Type: font/woff
+
+Uri: http://sacon.edu.in/wp-content/themes/oceanwp/assets/fonts/fontawesome/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\themes\oceanwp\assets\fonts\fontawesome\webfonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: http://sacon.edu.in/wp-content/themes/oceanwp/assets/fonts/fontawesome/webfonts/fa-brands-400.svg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\themes\oceanwp\assets\fonts\fontawesome\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: http://sacon.edu.in/wp-content/themes/oceanwp/assets/fonts/fontawesome/webfonts/fa-regular-400.eot
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\themes\oceanwp\assets\fonts\fontawesome\webfonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://sacon.edu.in/wp-content/themes/oceanwp/assets/fonts/fontawesome/webfonts/fa-regular-400.eot?
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\themes\oceanwp\assets\fonts\fontawesome\webfonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://sacon.edu.in/wp-content/themes/oceanwp/assets/fonts/fontawesome/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\themes\oceanwp\assets\fonts\fontawesome\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: http://sacon.edu.in/wp-content/themes/oceanwp/assets/fonts/fontawesome/webfonts/fa-regular-400.woff
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\themes\oceanwp\assets\fonts\fontawesome\webfonts\fa-regular-400.woff
+Content Type: font/woff
+
+Uri: http://sacon.edu.in/wp-content/themes/oceanwp/assets/fonts/fontawesome/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\themes\oceanwp\assets\fonts\fontawesome\webfonts\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: http://sacon.edu.in/wp-content/themes/oceanwp/assets/fonts/fontawesome/webfonts/fa-regular-400.svg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\themes\oceanwp\assets\fonts\fontawesome\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: http://sacon.edu.in/wp-content/themes/oceanwp/assets/fonts/fontawesome/webfonts/fa-solid-900.eot
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\themes\oceanwp\assets\fonts\fontawesome\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://sacon.edu.in/wp-content/themes/oceanwp/assets/fonts/fontawesome/webfonts/fa-solid-900.eot?
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\themes\oceanwp\assets\fonts\fontawesome\webfonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://sacon.edu.in/wp-content/themes/oceanwp/assets/fonts/fontawesome/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\themes\oceanwp\assets\fonts\fontawesome\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: http://sacon.edu.in/wp-content/themes/oceanwp/assets/fonts/fontawesome/webfonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\themes\oceanwp\assets\fonts\fontawesome\webfonts\fa-solid-900.woff
+Content Type: font/woff
+
+Uri: http://sacon.edu.in/wp-content/themes/oceanwp/assets/fonts/fontawesome/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\themes\oceanwp\assets\fonts\fontawesome\webfonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: http://sacon.edu.in/wp-content/themes/oceanwp/assets/fonts/fontawesome/webfonts/fa-solid-900.svg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\themes\oceanwp\assets\fonts\fontawesome\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: http://sacon.edu.in/wp-content/themes/oceanwp/assets/fonts/simple-line-icons/Simple-Line-Icons.eot?v=2.4.0
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\themes\oceanwp\assets\fonts\simple-line-icons\Simple-Line-Icons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://sacon.edu.in/wp-content/themes/oceanwp/assets/fonts/simple-line-icons/Simple-Line-Icons.woff2?v=2.4.0
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\themes\oceanwp\assets\fonts\simple-line-icons\Simple-Line-Icons.woff2
+Content Type: font/woff2
+
+Uri: http://sacon.edu.in/wp-content/themes/oceanwp/assets/fonts/simple-line-icons/Simple-Line-Icons.ttf?v=2.4.0
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\themes\oceanwp\assets\fonts\simple-line-icons\Simple-Line-Icons.ttf
+Content Type: font/ttf
+
+Uri: http://sacon.edu.in/wp-content/themes/oceanwp/assets/fonts/simple-line-icons/Simple-Line-Icons.woff?v=2.4.0
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\themes\oceanwp\assets\fonts\simple-line-icons\Simple-Line-Icons.woff
+Content Type: font/woff
+
+Uri: http://sacon.edu.in/wp-content/themes/oceanwp/assets/fonts/simple-line-icons/Simple-Line-Icons.svg?v=2.4.0
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\themes\oceanwp\assets\fonts\simple-line-icons\Simple-Line-Icons.svg
+Content Type: image/svg+xml
+
+Uri: http://sacon.edu.in/wp-content/plugins/ht-mega-for-elementor/assets/images/ajax-loader.gif
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\plugins\ht-mega-for-elementor\assets\images\ajax-loader.gif
+Content Type: image/gif
+
+Uri: http://sacon.edu.in/wp-content/plugins/ht-mega-for-elementor/assets/fonts/slick.eot
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\plugins\ht-mega-for-elementor\assets\fonts\slick.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://sacon.edu.in/wp-content/plugins/ht-mega-for-elementor/assets/fonts/slick.eot?
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\plugins\ht-mega-for-elementor\assets\fonts\slick-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://sacon.edu.in/wp-content/plugins/ht-mega-for-elementor/assets/fonts/slick.woff
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\plugins\ht-mega-for-elementor\assets\fonts\slick.woff
+Content Type: font/woff
+
+Uri: http://sacon.edu.in/wp-content/plugins/ht-mega-for-elementor/assets/fonts/slick.ttf
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\plugins\ht-mega-for-elementor\assets\fonts\slick.ttf
+Content Type: font/ttf
+
+Uri: http://sacon.edu.in/wp-content/plugins/ht-mega-for-elementor/assets/fonts/slick.svg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\plugins\ht-mega-for-elementor\assets\fonts\slick.svg
+Content Type: image/svg+xml
+
+Uri: http://sacon.edu.in/wp-content/plugins/ocean-extra/assets/img/instagram-logo.png
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\plugins\ocean-extra\assets\img\instagram-logo.png
+Content Type: image/png
+
+Uri: http://sacon.edu.in/wp-content/plugins/ocean-extra/assets/img/flickr.png
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\plugins\ocean-extra\assets\img\flickr.png
+Content Type: image/png
+
+Uri: http://sacon.edu.in/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.eot
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://sacon.edu.in/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.eot?
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://sacon.edu.in/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: http://sacon.edu.in/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.woff
+Content Type: font/woff
+
+Uri: http://sacon.edu.in/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: http://sacon.edu.in/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.svg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: http://sacon.edu.in/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.eot
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://sacon.edu.in/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.eot?
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://sacon.edu.in/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: http://sacon.edu.in/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.woff
+Content Type: font/woff
+
+Uri: http://sacon.edu.in/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: http://sacon.edu.in/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.svg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: http://sacon.edu.in/wp-content/uploads/essential-addons-elementor/cb70d11b8.min.css?ver=1627888468
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\essential-addons-elementor\cb70d11b8.min-1.css
+Content Type: text/css
+
+Uri: http://sacon.edu.in/wp-content/uploads/essential-addons-elementor/cb70d11b8.min.js?ver=1627888468
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\essential-addons-elementor\cb70d11b8.min-1.js
+Content Type: application/javascript
+
+Uri: http://sacon.edu.in/wp-content/uploads/essential-addons-elementor/68d867457.min.css?ver=1627888473
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\essential-addons-elementor\68d867457.min.css
+Content Type: text/css
+
+Uri: http://sacon.edu.in/wp-content/uploads/elementor/css/post-10.css?ver=1604607421
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\elementor\css\post-10.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Roboto+Slab:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Lato:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Open+Sans:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Poppins:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&ver=5.3.2
+File Name: C:\Downloaded Web Sites\sacon.edu.in\css-2.css
+Content Type: text/css
+
+Uri: http://sacon.edu.in/wp-json/oembed/1.0/embed?url=http:%2F%2Fsacon.edu.in%2Fabout-us%2F
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-json\oembed\1.0\embed-1.json
+Content Type: application/json
+
+Uri: http://sacon.edu.in/wp-json/oembed/1.0/embed?url=http:%2F%2Fsacon.edu.in%2Fabout-us%2F&format=xml
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-json\oembed\1.0\embed-1.xml
+Content Type: text/xml
+
+Uri: http://sacon.edu.in/wp-content/uploads/elementor/thumbs/WhatsApp-Image-2019-09-25-at-3.17.26-PM-ofopz7ewy3c32ggq9iysjsqhweipwj6xljpxm0wvec.jpeg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\elementor\thumbs\WhatsApp-Image-2019-09-25-at-3.17.26-PM-ofopz7ewy3c32ggq9iysjsqhweipwj6xljpxm0wvec.jpeg
+Content Type: image/jpeg
+
+Uri: http://sacon.edu.in/wp-content/uploads/2019/10/WhatsApp-Image-2019-10-24-at-3.57.01-PM.jpeg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\2019\10\WhatsApp-Image-2019-10-24-at-3.57.01-PM.jpeg
+Content Type: image/jpeg
+
+Uri: http://sacon.edu.in/wp-content/uploads/2019/09/Director.png
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\2019\09\Director.png
+Content Type: image/png
+
+Uri: http://sacon.edu.in/wp-content/uploads/2019/09/Nursing-Director.png
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\2019\09\Nursing-Director.png
+Content Type: image/png
+
+Uri: http://sacon.edu.in/wp-content/uploads/2019/09/Principle.png
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\2019\09\Principle.png
+Content Type: image/png
+
+Uri: http://sacon.edu.in/wp-content/uploads/essential-addons-elementor/68d867457.min.js?ver=1627888473
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\essential-addons-elementor\68d867457.min.js
+Content Type: application/javascript
+
+Uri: http://sacon.edu.in/wp-content/uploads/2019/10/WhatsApp-Image-2019-10-24-at-3.57.01-PM-300x225.jpeg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\2019\10\WhatsApp-Image-2019-10-24-at-3.57.01-PM-300x225.jpeg
+Content Type: image/jpeg
+
+Uri: http://sacon.edu.in/wp-content/uploads/2019/10/WhatsApp-Image-2019-10-24-at-3.57.01-PM-768x576.jpeg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\2019\10\WhatsApp-Image-2019-10-24-at-3.57.01-PM-768x576.jpeg
+Content Type: image/jpeg
+
+Uri: http://sacon.edu.in/wp-content/uploads/2019/10/WhatsApp-Image-2019-10-24-at-3.57.01-PM-1024x768.jpeg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\2019\10\WhatsApp-Image-2019-10-24-at-3.57.01-PM-1024x768.jpeg
+Content Type: image/jpeg
+
+Uri: http://sacon.edu.in/wp-content/uploads/essential-addons-elementor/b5b58a3a9.min.css?ver=1627888478
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\essential-addons-elementor\b5b58a3a9.min.css
+Content Type: text/css
+
+Uri: http://sacon.edu.in/wp-content/uploads/elementor/css/post-312.css?ver=1604595058
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\elementor\css\post-312.css
+Content Type: text/css
+
+Uri: http://sacon.edu.in/wp-json/oembed/1.0/embed?url=http:%2F%2Fsacon.edu.in%2Fprogram%2F
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-json\oembed\1.0\embed-2.json
+Content Type: application/json
+
+Uri: http://sacon.edu.in/wp-json/oembed/1.0/embed?url=http:%2F%2Fsacon.edu.in%2Fprogram%2F&format=xml
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-json\oembed\1.0\embed-2.xml
+Content Type: text/xml
+
+Uri: http://sacon.edu.in/wp-content/uploads/essential-addons-elementor/b5b58a3a9.min.js?ver=1627888478
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\essential-addons-elementor\b5b58a3a9.min.js
+Content Type: application/javascript
+
+Uri: http://sacon.edu.in/wp-content/plugins/make-column-clickable-elementor/assets/js/make-column-clickable.js?ver=1.3.1
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\plugins\make-column-clickable-elementor\assets\js\make-column-clickable.js
+Content Type: application/javascript
+
+Uri: http://sacon.edu.in/wp-content/uploads/essential-addons-elementor/8fea959d5.min.css?ver=1627888485
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\essential-addons-elementor\8fea959d5.min.css
+Content Type: text/css
+
+Uri: http://sacon.edu.in/wp-content/uploads/elementor/css/post-314.css?ver=1604584870
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\elementor\css\post-314.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Roboto+Slab:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Lato:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Open+Sans:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Montserrat:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Poppins:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&ver=5.3.2
+File Name: C:\Downloaded Web Sites\sacon.edu.in\css-3.css
+Content Type: text/css
+
+Uri: http://sacon.edu.in/wp-content/plugins/elementor/assets/lib/font-awesome/css/regular.min.css?ver=5.12.0
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\plugins\elementor\assets\lib\font-awesome\css\regular.min.css
+Content Type: text/css
+
+Uri: http://sacon.edu.in/wp-json/oembed/1.0/embed?url=http:%2F%2Fsacon.edu.in%2Fprogram%2Fbbsc-nursing%2F
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-json\oembed\1.0\embed-3.json
+Content Type: application/json
+
+Uri: http://sacon.edu.in/wp-json/oembed/1.0/embed?url=http:%2F%2Fsacon.edu.in%2Fprogram%2Fbbsc-nursing%2F&format=xml
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-json\oembed\1.0\embed-3.xml
+Content Type: text/xml
+
+Uri: http://sacon.edu.in/wp-content/uploads/elementor/css/post-529.css?ver=1604584870
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\elementor\css\post-529.css
+Content Type: text/css
+
+Uri: http://sacon.edu.in/wp-content/uploads/elementor/css/post-532.css?ver=1604584871
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\elementor\css\post-532.css
+Content Type: text/css
+
+Uri: http://sacon.edu.in/wp-content/uploads/elementor/css/post-535.css?ver=1604584871
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\elementor\css\post-535.css
+Content Type: text/css
+
+Uri: http://sacon.edu.in/wp-content/uploads/elementor/css/post-538.css?ver=1604584871
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\elementor\css\post-538.css
+Content Type: text/css
+
+Uri: http://sacon.edu.in/wp-content/uploads/elementor/css/post-552.css?ver=1604584871
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\elementor\css\post-552.css
+Content Type: text/css
+
+Uri: http://sacon.edu.in/wp-content/uploads/essential-addons-elementor/8fea959d5.min.js?ver=1627888485
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\essential-addons-elementor\8fea959d5.min.js
+Content Type: application/javascript
+
+Uri: http://sacon.edu.in/wp-content/uploads/essential-addons-elementor/b9fe53f1c.min.css?ver=1627888489
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\essential-addons-elementor\b9fe53f1c.min.css
+Content Type: text/css
+
+Uri: http://sacon.edu.in/wp-content/uploads/elementor/css/post-316.css?ver=1604582269
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\elementor\css\post-316.css
+Content Type: text/css
+
+Uri: http://sacon.edu.in/wp-json/oembed/1.0/embed?url=http:%2F%2Fsacon.edu.in%2Fprogram%2Fmsc-nursing%2F
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-json\oembed\1.0\embed-4.json
+Content Type: application/json
+
+Uri: http://sacon.edu.in/wp-json/oembed/1.0/embed?url=http:%2F%2Fsacon.edu.in%2Fprogram%2Fmsc-nursing%2F&format=xml
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-json\oembed\1.0\embed-4.xml
+Content Type: text/xml
+
+Uri: http://sacon.edu.in/wp-content/uploads/elementor/css/post-834.css?ver=1604582270
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\elementor\css\post-834.css
+Content Type: text/css
+
+Uri: http://sacon.edu.in/wp-content/uploads/elementor/css/post-837.css?ver=1604582270
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\elementor\css\post-837.css
+Content Type: text/css
+
+Uri: http://sacon.edu.in/wp-content/uploads/essential-addons-elementor/b9fe53f1c.min.js?ver=1627888489
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\essential-addons-elementor\b9fe53f1c.min.js
+Content Type: application/javascript
+
+Uri: http://sacon.edu.in/wp-content/uploads/essential-addons-elementor/9c4d78fa3.min.css?ver=1627888493
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\essential-addons-elementor\9c4d78fa3.min.css
+Content Type: text/css
+
+Uri: http://sacon.edu.in/wp-content/uploads/elementor/css/post-318.css?ver=1604579557
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\elementor\css\post-318.css
+Content Type: text/css
+
+Uri: http://sacon.edu.in/wp-json/oembed/1.0/embed?url=http:%2F%2Fsacon.edu.in%2Fprogram%2Fpbbsc-nursing%2F
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-json\oembed\1.0\embed-5.json
+Content Type: application/json
+
+Uri: http://sacon.edu.in/wp-json/oembed/1.0/embed?url=http:%2F%2Fsacon.edu.in%2Fprogram%2Fpbbsc-nursing%2F&format=xml
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-json\oembed\1.0\embed-5.xml
+Content Type: text/xml
+
+Uri: http://sacon.edu.in/wp-content/uploads/elementor/css/post-572.css?ver=1604579558
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\elementor\css\post-572.css
+Content Type: text/css
+
+Uri: http://sacon.edu.in/wp-content/uploads/elementor/css/post-569.css?ver=1604579558
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\elementor\css\post-569.css
+Content Type: text/css
+
+Uri: http://sacon.edu.in/wp-content/uploads/essential-addons-elementor/9c4d78fa3.min.js?ver=1627888493
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\essential-addons-elementor\9c4d78fa3.min.js
+Content Type: application/javascript
+
+Uri: http://sacon.edu.in/wp-content/uploads/essential-addons-elementor/be37b6db9.min.css?ver=1627888498
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\essential-addons-elementor\be37b6db9.min.css
+Content Type: text/css
+
+Uri: http://sacon.edu.in/wp-content/uploads/elementor/css/post-340.css?ver=1604619985
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\elementor\css\post-340.css
+Content Type: text/css
+
+Uri: http://sacon.edu.in/wp-json/oembed/1.0/embed?url=http:%2F%2Fsacon.edu.in%2Fstudents%2Fstudent-details%2F
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-json\oembed\1.0\embed-6.json
+Content Type: application/json
+
+Uri: http://sacon.edu.in/wp-json/oembed/1.0/embed?url=http:%2F%2Fsacon.edu.in%2Fstudents%2Fstudent-details%2F&format=xml
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-json\oembed\1.0\embed-6.xml
+Content Type: text/xml
+
+Uri: http://sacon.edu.in/students/
+File Name: C:\Downloaded Web Sites\sacon.edu.in\students\index.htm
+Content Type: text/html
+
+Uri: http://sacon.edu.in/wp-content/uploads/essential-addons-elementor/be37b6db9.min.js?ver=1627888498
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\essential-addons-elementor\be37b6db9.min.js
+Content Type: application/javascript
+
+Uri: http://sacon.edu.in/wp-content/uploads/essential-addons-elementor/cda01962d.min.css?ver=1627888501
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\essential-addons-elementor\cda01962d.min.css
+Content Type: text/css
+
+Uri: http://sacon.edu.in/wp-content/uploads/elementor/css/post-1029.css?ver=1605424605
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\elementor\css\post-1029.css
+Content Type: text/css
+
+Uri: http://sacon.edu.in/wp-json/oembed/1.0/embed?url=http:%2F%2Fsacon.edu.in%2Fstudents%2Fstudent-details%2Fbbsc-nursing%2F
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-json\oembed\1.0\embed-7.json
+Content Type: application/json
+
+Uri: http://sacon.edu.in/wp-json/oembed/1.0/embed?url=http:%2F%2Fsacon.edu.in%2Fstudents%2Fstudent-details%2Fbbsc-nursing%2F&format=xml
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-json\oembed\1.0\embed-7.xml
+Content Type: text/xml
+
+Uri: http://sacon.edu.in/wp-content/uploads/2019/10/1st-yr-basic-BSC-batch-detailes.pdf
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\2019\10\1st-yr-basic-BSC-batch-detailes.pdf
+Content Type: application/pdf
+
+Uri: http://sacon.edu.in/wp-content/uploads/2019/10/1st-year-2019-basic-Bsc-batch-detailes.pdf
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\2019\10\1st-year-2019-basic-Bsc-batch-detailes.pdf
+Content Type: application/pdf
+
+Uri: http://sacon.edu.in/wp-content/uploads/2019/10/3rd-year-basic-Bsc-batch-detailes.pdf
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\2019\10\3rd-year-basic-Bsc-batch-detailes.pdf
+Content Type: application/pdf
+
+Uri: http://sacon.edu.in/wp-content/uploads/2019/10/4th-year-basic-Bsc-batch-details.pdf
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\2019\10\4th-year-basic-Bsc-batch-details.pdf
+Content Type: application/pdf
+
+Uri: http://sacon.edu.in/wp-content/plugins/pdf-embedder/css/pdfemb-embed-pdf-4.6.1.css?ver=4.6.1
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\plugins\pdf-embedder\css\pdfemb-embed-pdf-4.6.1.css
+Content Type: text/css
+
+Uri: http://sacon.edu.in/wp-content/uploads/essential-addons-elementor/cda01962d.min.js?ver=1627888501
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\essential-addons-elementor\cda01962d.min.js
+Content Type: application/javascript
+
+Uri: http://sacon.edu.in/wp-content/plugins/pdf-embedder/js/all-pdfemb-basic-4.6.1.min.js?ver=5.3.2
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\plugins\pdf-embedder\js\all-pdfemb-basic-4.6.1.min.js
+Content Type: application/javascript
+
+Uri: http://sacon.edu.in/wp-content/plugins/pdf-embedder/js/pdfjs/pdf-4.6.1.min.js?ver=4.6.1
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\plugins\pdf-embedder\js\pdfjs\pdf-4.6.1.min.js
+Content Type: application/javascript
+
+Uri: http://sacon.edu.in/wp-content/uploads/essential-addons-elementor/fa2e29857.min.css?ver=1627888505
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\essential-addons-elementor\fa2e29857.min.css
+Content Type: text/css
+
+Uri: http://sacon.edu.in/wp-content/uploads/elementor/css/post-1042.css?ver=1604581589
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\elementor\css\post-1042.css
+Content Type: text/css
+
+Uri: http://sacon.edu.in/wp-json/oembed/1.0/embed?url=http:%2F%2Fsacon.edu.in%2Fstudents%2Fstudent-details%2Fpbsc-nursing%2F
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-json\oembed\1.0\embed-8.json
+Content Type: application/json
+
+Uri: http://sacon.edu.in/wp-json/oembed/1.0/embed?url=http:%2F%2Fsacon.edu.in%2Fstudents%2Fstudent-details%2Fpbsc-nursing%2F&format=xml
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-json\oembed\1.0\embed-8.xml
+Content Type: text/xml
+
+Uri: http://sacon.edu.in/wp-content/uploads/2019/10/list-of-student-1st-yr-P.B.Bsc_.pdf
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\2019\10\list-of-student-1st-yr-P.B.Bsc_.pdf
+Content Type: application/pdf
+
+Uri: http://sacon.edu.in/wp-content/uploads/2019/10/2ND-YR-PBBSC-BATCH-DETAILES.pdf
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\2019\10\2ND-YR-PBBSC-BATCH-DETAILES.pdf
+Content Type: application/pdf
+
+Uri: http://sacon.edu.in/wp-content/uploads/essential-addons-elementor/fa2e29857.min.js?ver=1627888505
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\essential-addons-elementor\fa2e29857.min.js
+Content Type: application/javascript
+
+Uri: http://sacon.edu.in/wp-content/uploads/essential-addons-elementor/2de8ab132.min.css?ver=1627888508
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\essential-addons-elementor\2de8ab132.min.css
+Content Type: text/css
+
+Uri: http://sacon.edu.in/wp-content/uploads/elementor/css/post-342.css?ver=1604580667
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\elementor\css\post-342.css
+Content Type: text/css
+
+Uri: http://sacon.edu.in/wp-json/oembed/1.0/embed?url=http:%2F%2Fsacon.edu.in%2Fstudents%2Fsna-activities%2F
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-json\oembed\1.0\embed-9.json
+Content Type: application/json
+
+Uri: http://sacon.edu.in/wp-json/oembed/1.0/embed?url=http:%2F%2Fsacon.edu.in%2Fstudents%2Fsna-activities%2F&format=xml
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-json\oembed\1.0\embed-9.xml
+Content Type: text/xml
+
+Uri: http://sacon.edu.in/wp-content/uploads/2019/10/WhatsApp-Image-2019-10-10-at-4.11.27-PM-1.jpeg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\2019\10\WhatsApp-Image-2019-10-10-at-4.11.27-PM-1.jpeg
+Content Type: image/jpeg
+
+Uri: http://sacon.edu.in/wp-content/uploads/2019/10/WhatsApp-Image-2019-10-10-at-4.11.28-PM.jpeg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\2019\10\WhatsApp-Image-2019-10-10-at-4.11.28-PM.jpeg
+Content Type: image/jpeg
+
+Uri: http://sacon.edu.in/wp-content/uploads/2019/10/WhatsApp-Image-2019-10-10-at-4.11.29-PM.jpeg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\2019\10\WhatsApp-Image-2019-10-10-at-4.11.29-PM.jpeg
+Content Type: image/jpeg
+
+Uri: http://sacon.edu.in/wp-content/uploads/2019/11/WhatsApp-Image-2019-11-19-at-4.02.45-PM-1-1024x485.jpeg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\2019\11\WhatsApp-Image-2019-11-19-at-4.02.45-PM-1-1024x485.jpeg
+Content Type: image/jpeg
+
+Uri: http://sacon.edu.in/wp-content/uploads/2019/11/WhatsApp-Image-2019-11-19-at-4.02.44-PM-768x1024.jpeg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\2019\11\WhatsApp-Image-2019-11-19-at-4.02.44-PM-768x1024.jpeg
+Content Type: image/jpeg
+
+Uri: http://sacon.edu.in/wp-content/uploads/2019/11/WhatsApp-Image-2019-11-19-at-4.02.44-PM-1-473x1024.jpeg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\2019\11\WhatsApp-Image-2019-11-19-at-4.02.44-PM-1-473x1024.jpeg
+Content Type: image/jpeg
+
+Uri: http://sacon.edu.in/wp-content/uploads/2019/11/WhatsApp-Image-2019-11-19-at-4.02.43-PM-1024x485.jpeg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\2019\11\WhatsApp-Image-2019-11-19-at-4.02.43-PM-1024x485.jpeg
+Content Type: image/jpeg
+
+Uri: http://sacon.edu.in/wp-content/uploads/2019/11/WhatsApp-Image-2019-11-19-at-4.02.46-PM-768x1024.jpeg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\2019\11\WhatsApp-Image-2019-11-19-at-4.02.46-PM-768x1024.jpeg
+Content Type: image/jpeg
+
+Uri: http://sacon.edu.in/wp-content/uploads/essential-addons-elementor/2de8ab132.min.js?ver=1627888508
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\essential-addons-elementor\2de8ab132.min.js
+Content Type: application/javascript
+
+Uri: http://sacon.edu.in/wp-content/uploads/2019/10/WhatsApp-Image-2019-10-10-at-4.11.27-PM-1-150x150.jpeg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\2019\10\WhatsApp-Image-2019-10-10-at-4.11.27-PM-1-150x150.jpeg
+Content Type: image/jpeg
+
+Uri: http://sacon.edu.in/wp-content/uploads/2019/10/WhatsApp-Image-2019-10-10-at-4.11.27-PM-1-300x300.jpeg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\2019\10\WhatsApp-Image-2019-10-10-at-4.11.27-PM-1-300x300.jpeg
+Content Type: image/jpeg
+
+Uri: http://sacon.edu.in/wp-content/uploads/2019/10/WhatsApp-Image-2019-10-10-at-4.11.27-PM-1-768x764.jpeg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\2019\10\WhatsApp-Image-2019-10-10-at-4.11.27-PM-1-768x764.jpeg
+Content Type: image/jpeg
+
+Uri: http://sacon.edu.in/wp-content/uploads/2019/10/WhatsApp-Image-2019-10-10-at-4.11.28-PM-150x150.jpeg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\2019\10\WhatsApp-Image-2019-10-10-at-4.11.28-PM-150x150.jpeg
+Content Type: image/jpeg
+
+Uri: http://sacon.edu.in/wp-content/uploads/2019/10/WhatsApp-Image-2019-10-10-at-4.11.28-PM-300x300.jpeg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\2019\10\WhatsApp-Image-2019-10-10-at-4.11.28-PM-300x300.jpeg
+Content Type: image/jpeg
+
+Uri: http://sacon.edu.in/wp-content/uploads/2019/10/WhatsApp-Image-2019-10-10-at-4.11.28-PM-768x766.jpeg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\2019\10\WhatsApp-Image-2019-10-10-at-4.11.28-PM-768x766.jpeg
+Content Type: image/jpeg
+
+Uri: http://sacon.edu.in/wp-content/uploads/2019/10/WhatsApp-Image-2019-10-10-at-4.11.29-PM-150x150.jpeg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\2019\10\WhatsApp-Image-2019-10-10-at-4.11.29-PM-150x150.jpeg
+Content Type: image/jpeg
+
+Uri: http://sacon.edu.in/wp-content/uploads/2019/10/WhatsApp-Image-2019-10-10-at-4.11.29-PM-300x300.jpeg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\2019\10\WhatsApp-Image-2019-10-10-at-4.11.29-PM-300x300.jpeg
+Content Type: image/jpeg
+
+Uri: http://sacon.edu.in/wp-content/uploads/2019/11/WhatsApp-Image-2019-11-19-at-4.02.45-PM-1-300x142.jpeg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\2019\11\WhatsApp-Image-2019-11-19-at-4.02.45-PM-1-300x142.jpeg
+Content Type: image/jpeg
+
+Uri: http://sacon.edu.in/wp-content/uploads/2019/11/WhatsApp-Image-2019-11-19-at-4.02.45-PM-1-768x364.jpeg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\2019\11\WhatsApp-Image-2019-11-19-at-4.02.45-PM-1-768x364.jpeg
+Content Type: image/jpeg
+
+Uri: http://sacon.edu.in/wp-content/uploads/2019/11/WhatsApp-Image-2019-11-19-at-4.02.45-PM-1.jpeg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\2019\11\WhatsApp-Image-2019-11-19-at-4.02.45-PM-1.jpeg
+Content Type: image/jpeg
+
+Uri: http://sacon.edu.in/wp-content/uploads/2019/11/WhatsApp-Image-2019-11-19-at-4.02.43-PM-300x142.jpeg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\2019\11\WhatsApp-Image-2019-11-19-at-4.02.43-PM-300x142.jpeg
+Content Type: image/jpeg
+
+Uri: http://sacon.edu.in/wp-content/uploads/2019/11/WhatsApp-Image-2019-11-19-at-4.02.43-PM-768x364.jpeg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\2019\11\WhatsApp-Image-2019-11-19-at-4.02.43-PM-768x364.jpeg
+Content Type: image/jpeg
+
+Uri: http://sacon.edu.in/wp-content/uploads/2019/11/WhatsApp-Image-2019-11-19-at-4.02.43-PM.jpeg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\2019\11\WhatsApp-Image-2019-11-19-at-4.02.43-PM.jpeg
+Content Type: image/jpeg
+
+Uri: http://sacon.edu.in/wp-content/uploads/2019/11/WhatsApp-Image-2019-11-19-at-4.02.46-PM-225x300.jpeg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\2019\11\WhatsApp-Image-2019-11-19-at-4.02.46-PM-225x300.jpeg
+Content Type: image/jpeg
+
+Uri: http://sacon.edu.in/wp-content/uploads/2019/11/WhatsApp-Image-2019-11-19-at-4.02.46-PM.jpeg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\2019\11\WhatsApp-Image-2019-11-19-at-4.02.46-PM.jpeg
+Content Type: image/jpeg
+
+Uri: http://sacon.edu.in/wp-content/uploads/essential-addons-elementor/ac8e04b72.min.css?ver=1627888512
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\essential-addons-elementor\ac8e04b72.min.css
+Content Type: text/css
+
+Uri: http://sacon.edu.in/wp-content/uploads/elementor/css/post-1465.css?ver=1604673115
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\elementor\css\post-1465.css
+Content Type: text/css
+
+Uri: http://sacon.edu.in/wp-json/oembed/1.0/embed?url=http:%2F%2Fsacon.edu.in%2Fgallery%2F
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-json\oembed\1.0\embed-10.json
+Content Type: application/json
+
+Uri: http://sacon.edu.in/wp-json/oembed/1.0/embed?url=http:%2F%2Fsacon.edu.in%2Fgallery%2F&format=xml
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-json\oembed\1.0\embed-10.xml
+Content Type: text/xml
+
+Uri: http://sacon.edu.in/wp-content/gallery/independence-day/WhatsApp-Image-2019-10-04-at-1.49.58-PM.jpeg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\gallery\independence-day\WhatsApp-Image-2019-10-04-at-1.49.58-PM.jpeg
+Content Type: image/jpeg
+
+Uri: http://sacon.edu.in/wp-content/gallery/independence-day/WhatsApp-Image-2019-10-04-at-1.50.00-PM.jpeg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\gallery\independence-day\WhatsApp-Image-2019-10-04-at-1.50.00-PM.jpeg
+Content Type: image/jpeg
+
+Uri: http://sacon.edu.in/wp-content/gallery/independence-day/WhatsApp-Image-2019-10-04-at-1.50.00-PM-1.jpeg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\gallery\independence-day\WhatsApp-Image-2019-10-04-at-1.50.00-PM-1.jpeg
+Content Type: image/jpeg
+
+Uri: http://sacon.edu.in/wp-content/gallery/independence-day/WhatsApp-Image-2019-10-04-at-1.50.01-PM.jpeg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\gallery\independence-day\WhatsApp-Image-2019-10-04-at-1.50.01-PM.jpeg
+Content Type: image/jpeg
+
+Uri: http://sacon.edu.in/wp-content/gallery/independence-day/WhatsApp-Image-2019-10-04-at-1.49.59-PM.jpeg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\gallery\independence-day\WhatsApp-Image-2019-10-04-at-1.49.59-PM.jpeg
+Content Type: image/jpeg
+
+Uri: http://sacon.edu.in/wp-content/gallery/games/1.jpg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\gallery\games\1.jpg
+Content Type: image/jpeg
+
+Uri: http://sacon.edu.in/wp-content/gallery/games/2.jpg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\gallery\games\2.jpg
+Content Type: image/jpeg
+
+Uri: http://sacon.edu.in/wp-content/gallery/games/WhatsApp-Image-2019-10-04-at-1.50.51-PM.jpeg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\gallery\games\WhatsApp-Image-2019-10-04-at-1.50.51-PM.jpeg
+Content Type: image/jpeg
+
+Uri: http://sacon.edu.in/wp-content/gallery/games/3.jpg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\gallery\games\3.jpg
+Content Type: image/jpeg
+
+Uri: http://sacon.edu.in/wp-content/gallery/games/4.jpg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\gallery\games\4.jpg
+Content Type: image/jpeg
+
+Uri: http://sacon.edu.in/wp-content/gallery/swacha-bharat-abhiyan/10.jpg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\gallery\swacha-bharat-abhiyan\10.jpg
+Content Type: image/jpeg
+
+Uri: http://sacon.edu.in/wp-content/gallery/swacha-bharat-abhiyan/9.jpg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\gallery\swacha-bharat-abhiyan\9.jpg
+Content Type: image/jpeg
+
+Uri: http://sacon.edu.in/wp-content/gallery/swacha-bharat-abhiyan/8.jpg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\gallery\swacha-bharat-abhiyan\8.jpg
+Content Type: image/jpeg
+
+Uri: http://sacon.edu.in/wp-content/gallery/health-camp/WhatsApp-Image-2019-10-04-at-12.28.17-PM-2.jpeg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\gallery\health-camp\WhatsApp-Image-2019-10-04-at-12.28.17-PM-2.jpeg
+Content Type: image/jpeg
+
+Uri: http://sacon.edu.in/wp-content/gallery/health-camp/WhatsApp-Image-2019-10-04-at-12.28.17-PM-1.jpeg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\gallery\health-camp\WhatsApp-Image-2019-10-04-at-12.28.17-PM-1.jpeg
+Content Type: image/jpeg
+
+Uri: http://sacon.edu.in/wp-content/gallery/health-camp/WhatsApp-Image-2019-10-04-at-12.28.16-PM-1.jpeg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\gallery\health-camp\WhatsApp-Image-2019-10-04-at-12.28.16-PM-1.jpeg
+Content Type: image/jpeg
+
+Uri: http://sacon.edu.in/wp-content/gallery/health-camp/1-1.jpg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\gallery\health-camp\1-1.jpg
+Content Type: image/jpeg
+
+Uri: http://sacon.edu.in/wp-content/gallery/health-camp/4-1.jpg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\gallery\health-camp\4-1.jpg
+Content Type: image/jpeg
+
+Uri: http://sacon.edu.in/wp-content/gallery/health-camp/2-1.jpg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\gallery\health-camp\2-1.jpg
+Content Type: image/jpeg
+
+Uri: http://sacon.edu.in/wp-content/gallery/health-camp/3-1.jpg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\gallery\health-camp\3-1.jpg
+Content Type: image/jpeg
+
+Uri: http://sacon.edu.in/wp-content/gallery/who-days-observed/1-1.jpg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\gallery\who-days-observed\1-1.jpg
+Content Type: image/jpeg
+
+Uri: http://sacon.edu.in/wp-content/gallery/who-days-observed/6.jpg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\gallery\who-days-observed\6.jpg
+Content Type: image/jpeg
+
+Uri: http://sacon.edu.in/wp-content/gallery/who-days-observed/WhatsApp-Image-2019-10-04-at-12.28.16-PM.jpeg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\gallery\who-days-observed\WhatsApp-Image-2019-10-04-at-12.28.16-PM.jpeg
+Content Type: image/jpeg
+
+Uri: http://sacon.edu.in/wp-content/gallery/who-days-observed/WhatsApp-Image-2019-10-04-at-12.28.15-PM-2.jpeg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\gallery\who-days-observed\WhatsApp-Image-2019-10-04-at-12.28.15-PM-2.jpeg
+Content Type: image/jpeg
+
+Uri: http://sacon.edu.in/wp-content/gallery/who-days-observed/WhatsApp-Image-2019-10-04-at-12.28.17-PM.jpeg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\gallery\who-days-observed\WhatsApp-Image-2019-10-04-at-12.28.17-PM.jpeg
+Content Type: image/jpeg
+
+Uri: http://sacon.edu.in/wp-content/gallery/who-days-observed/WhatsApp-Image-2019-10-04-at-12.28.18-PM.jpeg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\gallery\who-days-observed\WhatsApp-Image-2019-10-04-at-12.28.18-PM.jpeg
+Content Type: image/jpeg
+
+Uri: http://sacon.edu.in/wp-content/gallery/who-days-observed/7.jpg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\gallery\who-days-observed\7.jpg
+Content Type: image/jpeg
+
+Uri: http://sacon.edu.in/wp-content/gallery/who-days-observed/11.jpg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\gallery\who-days-observed\11.jpg
+Content Type: image/jpeg
+
+Uri: http://sacon.edu.in/wp-content/gallery/who-days-observed/12.jpg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\gallery\who-days-observed\12.jpg
+Content Type: image/jpeg
+
+Uri: http://sacon.edu.in/wp-content/gallery/who-days-observed/13.jpg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\gallery\who-days-observed\13.jpg
+Content Type: image/jpeg
+
+Uri: http://sacon.edu.in/wp-content/gallery/who-days-observed/14.jpg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\gallery\who-days-observed\14.jpg
+Content Type: image/jpeg
+
+Uri: http://sacon.edu.in/wp-content/gallery/world-ozone-day/WhatsApp-Image-2019-10-04-at-12.39.07-PM-1.jpeg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\gallery\world-ozone-day\WhatsApp-Image-2019-10-04-at-12.39.07-PM-1.jpeg
+Content Type: image/jpeg
+
+Uri: http://sacon.edu.in/wp-content/gallery/world-ozone-day/WhatsApp-Image-2019-10-04-at-12.39.04-PM.jpeg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\gallery\world-ozone-day\WhatsApp-Image-2019-10-04-at-12.39.04-PM.jpeg
+Content Type: image/jpeg
+
+Uri: http://sacon.edu.in/wp-content/gallery/world-ozone-day/WhatsApp-Image-2019-10-04-at-12.39.05-PM.jpeg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\gallery\world-ozone-day\WhatsApp-Image-2019-10-04-at-12.39.05-PM.jpeg
+Content Type: image/jpeg
+
+Uri: http://sacon.edu.in/wp-content/gallery/world-ozone-day/WhatsApp-Image-2019-10-04-at-12.39.06-PM-2.jpeg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\gallery\world-ozone-day\WhatsApp-Image-2019-10-04-at-12.39.06-PM-2.jpeg
+Content Type: image/jpeg
+
+Uri: http://sacon.edu.in/wp-content/gallery/world-ozone-day/WhatsApp-Image-2019-10-04-at-12.39.06-PM-1.jpeg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\gallery\world-ozone-day\WhatsApp-Image-2019-10-04-at-12.39.06-PM-1.jpeg
+Content Type: image/jpeg
+
+Uri: http://sacon.edu.in/wp-content/gallery/world-ozone-day/WhatsApp-Image-2019-10-04-at-12.39.06-PM.jpeg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\gallery\world-ozone-day\WhatsApp-Image-2019-10-04-at-12.39.06-PM.jpeg
+Content Type: image/jpeg
+
+Uri: http://sacon.edu.in/wp-content/gallery/world-ozone-day/WhatsApp-Image-2019-10-04-at-12.39.05-PM-2.jpeg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\gallery\world-ozone-day\WhatsApp-Image-2019-10-04-at-12.39.05-PM-2.jpeg
+Content Type: image/jpeg
+
+Uri: http://sacon.edu.in/wp-content/gallery/world-ozone-day/WhatsApp-Image-2019-10-04-at-12.39.05-PM-1.jpeg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\gallery\world-ozone-day\WhatsApp-Image-2019-10-04-at-12.39.05-PM-1.jpeg
+Content Type: image/jpeg
+
+Uri: http://sacon.edu.in/wp-content/gallery/world-heart-day/WhatsApp-Image-2019-10-04-at-12.39.21-PM.jpeg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\gallery\world-heart-day\WhatsApp-Image-2019-10-04-at-12.39.21-PM.jpeg
+Content Type: image/jpeg
+
+Uri: http://sacon.edu.in/wp-content/gallery/world-heart-day/WhatsApp-Image-2019-10-04-at-12.39.19-PM-2.jpeg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\gallery\world-heart-day\WhatsApp-Image-2019-10-04-at-12.39.19-PM-2.jpeg
+Content Type: image/jpeg
+
+Uri: http://sacon.edu.in/wp-content/gallery/world-heart-day/WhatsApp-Image-2019-10-04-at-12.39.19-PM.jpeg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\gallery\world-heart-day\WhatsApp-Image-2019-10-04-at-12.39.19-PM.jpeg
+Content Type: image/jpeg
+
+Uri: http://sacon.edu.in/wp-content/gallery/world-heart-day/WhatsApp-Image-2019-10-04-at-12.39.20-PM-1.jpeg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\gallery\world-heart-day\WhatsApp-Image-2019-10-04-at-12.39.20-PM-1.jpeg
+Content Type: image/jpeg
+
+Uri: http://sacon.edu.in/wp-content/gallery/world-heart-day/WhatsApp-Image-2019-10-04-at-12.39.20-PM.jpeg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\gallery\world-heart-day\WhatsApp-Image-2019-10-04-at-12.39.20-PM.jpeg
+Content Type: image/jpeg
+
+Uri: http://sacon.edu.in/wp-content/gallery/world-heart-day/WhatsApp-Image-2019-10-04-at-12.39.21-PM-1.jpeg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\gallery\world-heart-day\WhatsApp-Image-2019-10-04-at-12.39.21-PM-1.jpeg
+Content Type: image/jpeg
+
+Uri: http://sacon.edu.in/wp-content/gallery/world-heart-day/WhatsApp-Image-2019-10-04-at-12.39.21-PM-2.jpeg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\gallery\world-heart-day\WhatsApp-Image-2019-10-04-at-12.39.21-PM-2.jpeg
+Content Type: image/jpeg
+
+Uri: http://sacon.edu.in/wp-content/gallery/world-heart-day/WhatsApp-Image-2019-10-04-at-12.39.19-PM-1.jpeg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\gallery\world-heart-day\WhatsApp-Image-2019-10-04-at-12.39.19-PM-1.jpeg
+Content Type: image/jpeg
+
+Uri: http://sacon.edu.in/wp-content/gallery/nss-activities/WhatsApp-Image-2019-10-04-at-12.28.15-PM-1-e1570172963460.jpeg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\gallery\nss-activities\WhatsApp-Image-2019-10-04-at-12.28.15-PM-1-e1570172963460.jpeg
+Content Type: image/jpeg
+
+Uri: http://sacon.edu.in/wp-content/gallery/nss-activities/WhatsApp-Image-2019-10-04-at-12.28.15-PM-2.jpeg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\gallery\nss-activities\WhatsApp-Image-2019-10-04-at-12.28.15-PM-2.jpeg
+Content Type: image/jpeg
+
+Uri: http://sacon.edu.in/wp-content/gallery/nss-activities/WhatsApp-Image-2019-10-04-at-12.28.15-PM-e1570172916752.jpeg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\gallery\nss-activities\WhatsApp-Image-2019-10-04-at-12.28.15-PM-e1570172916752.jpeg
+Content Type: image/jpeg
+
+Uri: http://sacon.edu.in/wp-content/gallery/nss-activities/WhatsApp-Image-2019-10-04-at-12.28.16-PM-1.jpeg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\gallery\nss-activities\WhatsApp-Image-2019-10-04-at-12.28.16-PM-1.jpeg
+Content Type: image/jpeg
+
+Uri: http://sacon.edu.in/wp-content/gallery/nss-activities/WhatsApp-Image-2019-10-04-at-12.28.16-PM-2.jpeg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\gallery\nss-activities\WhatsApp-Image-2019-10-04-at-12.28.16-PM-2.jpeg
+Content Type: image/jpeg
+
+Uri: http://sacon.edu.in/wp-content/gallery/nss-activities/WhatsApp-Image-2019-10-04-at-12.28.16-PM.jpeg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\gallery\nss-activities\WhatsApp-Image-2019-10-04-at-12.28.16-PM.jpeg
+Content Type: image/jpeg
+
+Uri: http://sacon.edu.in/wp-content/gallery/nss-activities/WhatsApp-Image-2019-10-04-at-12.28.17-PM-1.jpeg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\gallery\nss-activities\WhatsApp-Image-2019-10-04-at-12.28.17-PM-1.jpeg
+Content Type: image/jpeg
+
+Uri: http://sacon.edu.in/wp-content/gallery/nss-activities/WhatsApp-Image-2019-10-04-at-12.28.17-PM-2.jpeg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\gallery\nss-activities\WhatsApp-Image-2019-10-04-at-12.28.17-PM-2.jpeg
+Content Type: image/jpeg
+
+Uri: http://sacon.edu.in/wp-content/gallery/nss-activities/WhatsApp-Image-2019-10-04-at-12.28.17-PM.jpeg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\gallery\nss-activities\WhatsApp-Image-2019-10-04-at-12.28.17-PM.jpeg
+Content Type: image/jpeg
+
+Uri: http://sacon.edu.in/wp-content/gallery/nss-activities/WhatsApp-Image-2019-10-04-at-12.28.18-PM.jpeg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\gallery\nss-activities\WhatsApp-Image-2019-10-04-at-12.28.18-PM.jpeg
+Content Type: image/jpeg
+
+Uri: http://sacon.edu.in/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_gallery_display/static/trigger_buttons.css?ver=3.3.20
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\plugins\nextgen-gallery\products\photocrati_nextgen\modules\nextgen_gallery_display\static\trigger_buttons.css
+Content Type: text/css
+
+Uri: http://sacon.edu.in/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/lightbox/static/simplelightbox/simple-lightbox.css?ver=3.3.20
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\plugins\nextgen-gallery\products\photocrati_nextgen\modules\lightbox\static\simplelightbox\simple-lightbox.css
+Content Type: text/css
+
+Uri: https://use.fontawesome.com/releases/v5.3.1/css/v4-shims.css?ver=5.3.2
+File Name: C:\Downloaded Web Sites\sacon.edu.in\releases\v5.3.1\css\v4-shims.css
+Content Type: text/css
+
+Uri: https://use.fontawesome.com/releases/v5.3.1/css/all.css?ver=5.3.2
+File Name: C:\Downloaded Web Sites\sacon.edu.in\releases\v5.3.1\css\all.css
+Content Type: text/css
+
+Uri: http://sacon.edu.in/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_basic_gallery/static/thumbnails/nextgen_basic_thumbnails.css?ver=3.3.20
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\plugins\nextgen-gallery\products\photocrati_nextgen\modules\nextgen_basic_gallery\static\thumbnails\nextgen_basic_thumbnails.css
+Content Type: text/css
+
+Uri: http://sacon.edu.in/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_pagination/static/style.css?ver=3.3.20
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\plugins\nextgen-gallery\products\photocrati_nextgen\modules\nextgen_pagination\static\style.css
+Content Type: text/css
+
+Uri: http://sacon.edu.in/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/ngglegacy/css/nggallery.css?ver=3.3.20
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\plugins\nextgen-gallery\products\photocrati_nextgen\modules\ngglegacy\css\nggallery.css
+Content Type: text/css
+
+Uri: http://sacon.edu.in/wp-content/gallery/independence-day/thumbs/thumbs_WhatsApp-Image-2019-10-04-at-1.49.58-PM.jpeg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\gallery\independence-day\thumbs\thumbs_WhatsApp-Image-2019-10-04-at-1.49.58-PM.jpeg
+Content Type: image/jpeg
+
+Uri: http://sacon.edu.in/wp-content/gallery/independence-day/thumbs/thumbs_WhatsApp-Image-2019-10-04-at-1.50.00-PM.jpeg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\gallery\independence-day\thumbs\thumbs_WhatsApp-Image-2019-10-04-at-1.50.00-PM.jpeg
+Content Type: image/jpeg
+
+Uri: http://sacon.edu.in/wp-content/gallery/independence-day/thumbs/thumbs_WhatsApp-Image-2019-10-04-at-1.50.00-PM-1.jpeg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\gallery\independence-day\thumbs\thumbs_WhatsApp-Image-2019-10-04-at-1.50.00-PM-1.jpeg
+Content Type: image/jpeg
+
+Uri: http://sacon.edu.in/wp-content/gallery/independence-day/thumbs/thumbs_WhatsApp-Image-2019-10-04-at-1.50.01-PM.jpeg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\gallery\independence-day\thumbs\thumbs_WhatsApp-Image-2019-10-04-at-1.50.01-PM.jpeg
+Content Type: image/jpeg
+
+Uri: http://sacon.edu.in/wp-content/gallery/independence-day/thumbs/thumbs_WhatsApp-Image-2019-10-04-at-1.49.59-PM.jpeg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\gallery\independence-day\thumbs\thumbs_WhatsApp-Image-2019-10-04-at-1.49.59-PM.jpeg
+Content Type: image/jpeg
+
+Uri: http://sacon.edu.in/wp-content/gallery/games/thumbs/thumbs_1.jpg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\gallery\games\thumbs\thumbs_1.jpg
+Content Type: image/jpeg
+
+Uri: http://sacon.edu.in/wp-content/gallery/games/thumbs/thumbs_2.jpg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\gallery\games\thumbs\thumbs_2.jpg
+Content Type: image/jpeg
+
+Uri: http://sacon.edu.in/wp-content/gallery/games/thumbs/thumbs_WhatsApp-Image-2019-10-04-at-1.50.51-PM.jpeg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\gallery\games\thumbs\thumbs_WhatsApp-Image-2019-10-04-at-1.50.51-PM.jpeg
+Content Type: image/jpeg
+
+Uri: http://sacon.edu.in/wp-content/gallery/games/thumbs/thumbs_3.jpg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\gallery\games\thumbs\thumbs_3.jpg
+Content Type: image/jpeg
+
+Uri: http://sacon.edu.in/wp-content/gallery/games/thumbs/thumbs_4.jpg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\gallery\games\thumbs\thumbs_4.jpg
+Content Type: image/jpeg
+
+Uri: http://sacon.edu.in/wp-content/gallery/swacha-bharat-abhiyan/thumbs/thumbs_10.jpg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\gallery\swacha-bharat-abhiyan\thumbs\thumbs_10.jpg
+Content Type: image/jpeg
+
+Uri: http://sacon.edu.in/wp-content/gallery/swacha-bharat-abhiyan/thumbs/thumbs_9.jpg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\gallery\swacha-bharat-abhiyan\thumbs\thumbs_9.jpg
+Content Type: image/jpeg
+
+Uri: http://sacon.edu.in/wp-content/gallery/swacha-bharat-abhiyan/thumbs/thumbs_8.jpg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\gallery\swacha-bharat-abhiyan\thumbs\thumbs_8.jpg
+Content Type: image/jpeg
+
+Uri: http://sacon.edu.in/wp-content/gallery/health-camp/thumbs/thumbs_WhatsApp-Image-2019-10-04-at-12.28.17-PM-2.jpeg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\gallery\health-camp\thumbs\thumbs_WhatsApp-Image-2019-10-04-at-12.28.17-PM-2.jpeg
+Content Type: image/jpeg
+
+Uri: http://sacon.edu.in/wp-content/gallery/health-camp/thumbs/thumbs_WhatsApp-Image-2019-10-04-at-12.28.17-PM-1.jpeg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\gallery\health-camp\thumbs\thumbs_WhatsApp-Image-2019-10-04-at-12.28.17-PM-1.jpeg
+Content Type: image/jpeg
+
+Uri: http://sacon.edu.in/wp-content/gallery/health-camp/thumbs/thumbs_WhatsApp-Image-2019-10-04-at-12.28.16-PM-1.jpeg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\gallery\health-camp\thumbs\thumbs_WhatsApp-Image-2019-10-04-at-12.28.16-PM-1.jpeg
+Content Type: image/jpeg
+
+Uri: http://sacon.edu.in/wp-content/gallery/health-camp/thumbs/thumbs_1-1.jpg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\gallery\health-camp\thumbs\thumbs_1-1.jpg
+Content Type: image/jpeg
+
+Uri: http://sacon.edu.in/wp-content/gallery/health-camp/thumbs/thumbs_4-1.jpg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\gallery\health-camp\thumbs\thumbs_4-1.jpg
+Content Type: image/jpeg
+
+Uri: http://sacon.edu.in/wp-content/gallery/health-camp/thumbs/thumbs_2-1.jpg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\gallery\health-camp\thumbs\thumbs_2-1.jpg
+Content Type: image/jpeg
+
+Uri: http://sacon.edu.in/wp-content/gallery/health-camp/thumbs/thumbs_3-1.jpg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\gallery\health-camp\thumbs\thumbs_3-1.jpg
+Content Type: image/jpeg
+
+Uri: http://sacon.edu.in/wp-content/gallery/who-days-observed/thumbs/thumbs_1-1.jpg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\gallery\who-days-observed\thumbs\thumbs_1-1.jpg
+Content Type: image/jpeg
+
+Uri: http://sacon.edu.in/wp-content/gallery/who-days-observed/thumbs/thumbs_6.jpg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\gallery\who-days-observed\thumbs\thumbs_6.jpg
+Content Type: image/jpeg
+
+Uri: http://sacon.edu.in/wp-content/gallery/who-days-observed/thumbs/thumbs_WhatsApp-Image-2019-10-04-at-12.28.16-PM.jpeg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\gallery\who-days-observed\thumbs\thumbs_WhatsApp-Image-2019-10-04-at-12.28.16-PM.jpeg
+Content Type: image/jpeg
+
+Uri: http://sacon.edu.in/wp-content/gallery/who-days-observed/thumbs/thumbs_WhatsApp-Image-2019-10-04-at-12.28.15-PM-2.jpeg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\gallery\who-days-observed\thumbs\thumbs_WhatsApp-Image-2019-10-04-at-12.28.15-PM-2.jpeg
+Content Type: image/jpeg
+
+Uri: http://sacon.edu.in/wp-content/gallery/who-days-observed/thumbs/thumbs_WhatsApp-Image-2019-10-04-at-12.28.17-PM.jpeg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\gallery\who-days-observed\thumbs\thumbs_WhatsApp-Image-2019-10-04-at-12.28.17-PM.jpeg
+Content Type: image/jpeg
+
+Uri: http://sacon.edu.in/wp-content/gallery/who-days-observed/thumbs/thumbs_WhatsApp-Image-2019-10-04-at-12.28.18-PM.jpeg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\gallery\who-days-observed\thumbs\thumbs_WhatsApp-Image-2019-10-04-at-12.28.18-PM.jpeg
+Content Type: image/jpeg
+
+Uri: http://sacon.edu.in/wp-content/gallery/who-days-observed/thumbs/thumbs_7.jpg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\gallery\who-days-observed\thumbs\thumbs_7.jpg
+Content Type: image/jpeg
+
+Uri: http://sacon.edu.in/wp-content/gallery/who-days-observed/thumbs/thumbs_11.jpg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\gallery\who-days-observed\thumbs\thumbs_11.jpg
+Content Type: image/jpeg
+
+Uri: http://sacon.edu.in/wp-content/gallery/who-days-observed/thumbs/thumbs_12.jpg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\gallery\who-days-observed\thumbs\thumbs_12.jpg
+Content Type: image/jpeg
+
+Uri: http://sacon.edu.in/wp-content/gallery/who-days-observed/thumbs/thumbs_13.jpg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\gallery\who-days-observed\thumbs\thumbs_13.jpg
+Content Type: image/jpeg
+
+Uri: http://sacon.edu.in/wp-content/gallery/who-days-observed/thumbs/thumbs_14.jpg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\gallery\who-days-observed\thumbs\thumbs_14.jpg
+Content Type: image/jpeg
+
+Uri: http://sacon.edu.in/wp-content/gallery/world-ozone-day/thumbs/thumbs_WhatsApp-Image-2019-10-04-at-12.39.07-PM-1.jpeg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\gallery\world-ozone-day\thumbs\thumbs_WhatsApp-Image-2019-10-04-at-12.39.07-PM-1.jpeg
+Content Type: image/jpeg
+
+Uri: http://sacon.edu.in/wp-content/gallery/world-ozone-day/thumbs/thumbs_WhatsApp-Image-2019-10-04-at-12.39.04-PM.jpeg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\gallery\world-ozone-day\thumbs\thumbs_WhatsApp-Image-2019-10-04-at-12.39.04-PM.jpeg
+Content Type: image/jpeg
+
+Uri: http://sacon.edu.in/wp-content/gallery/world-ozone-day/thumbs/thumbs_WhatsApp-Image-2019-10-04-at-12.39.05-PM.jpeg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\gallery\world-ozone-day\thumbs\thumbs_WhatsApp-Image-2019-10-04-at-12.39.05-PM.jpeg
+Content Type: image/jpeg
+
+Uri: http://sacon.edu.in/wp-content/gallery/world-ozone-day/thumbs/thumbs_WhatsApp-Image-2019-10-04-at-12.39.06-PM-2.jpeg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\gallery\world-ozone-day\thumbs\thumbs_WhatsApp-Image-2019-10-04-at-12.39.06-PM-2.jpeg
+Content Type: image/jpeg
+
+Uri: http://sacon.edu.in/wp-content/gallery/world-ozone-day/thumbs/thumbs_WhatsApp-Image-2019-10-04-at-12.39.06-PM-1.jpeg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\gallery\world-ozone-day\thumbs\thumbs_WhatsApp-Image-2019-10-04-at-12.39.06-PM-1.jpeg
+Content Type: image/jpeg
+
+Uri: http://sacon.edu.in/wp-content/gallery/world-ozone-day/thumbs/thumbs_WhatsApp-Image-2019-10-04-at-12.39.06-PM.jpeg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\gallery\world-ozone-day\thumbs\thumbs_WhatsApp-Image-2019-10-04-at-12.39.06-PM.jpeg
+Content Type: image/jpeg
+
+Uri: http://sacon.edu.in/wp-content/gallery/world-ozone-day/thumbs/thumbs_WhatsApp-Image-2019-10-04-at-12.39.05-PM-2.jpeg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\gallery\world-ozone-day\thumbs\thumbs_WhatsApp-Image-2019-10-04-at-12.39.05-PM-2.jpeg
+Content Type: image/jpeg
+
+Uri: http://sacon.edu.in/wp-content/gallery/world-ozone-day/thumbs/thumbs_WhatsApp-Image-2019-10-04-at-12.39.05-PM-1.jpeg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\gallery\world-ozone-day\thumbs\thumbs_WhatsApp-Image-2019-10-04-at-12.39.05-PM-1.jpeg
+Content Type: image/jpeg
+
+Uri: http://sacon.edu.in/wp-content/gallery/world-heart-day/thumbs/thumbs_WhatsApp-Image-2019-10-04-at-12.39.21-PM.jpeg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\gallery\world-heart-day\thumbs\thumbs_WhatsApp-Image-2019-10-04-at-12.39.21-PM.jpeg
+Content Type: image/jpeg
+
+Uri: http://sacon.edu.in/wp-content/gallery/world-heart-day/thumbs/thumbs_WhatsApp-Image-2019-10-04-at-12.39.19-PM-2.jpeg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\gallery\world-heart-day\thumbs\thumbs_WhatsApp-Image-2019-10-04-at-12.39.19-PM-2.jpeg
+Content Type: image/jpeg
+
+Uri: http://sacon.edu.in/wp-content/gallery/world-heart-day/thumbs/thumbs_WhatsApp-Image-2019-10-04-at-12.39.19-PM.jpeg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\gallery\world-heart-day\thumbs\thumbs_WhatsApp-Image-2019-10-04-at-12.39.19-PM.jpeg
+Content Type: image/jpeg
+
+Uri: http://sacon.edu.in/wp-content/gallery/world-heart-day/thumbs/thumbs_WhatsApp-Image-2019-10-04-at-12.39.20-PM-1.jpeg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\gallery\world-heart-day\thumbs\thumbs_WhatsApp-Image-2019-10-04-at-12.39.20-PM-1.jpeg
+Content Type: image/jpeg
+
+Uri: http://sacon.edu.in/wp-content/gallery/world-heart-day/thumbs/thumbs_WhatsApp-Image-2019-10-04-at-12.39.20-PM.jpeg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\gallery\world-heart-day\thumbs\thumbs_WhatsApp-Image-2019-10-04-at-12.39.20-PM.jpeg
+Content Type: image/jpeg
+
+Uri: http://sacon.edu.in/wp-content/gallery/world-heart-day/thumbs/thumbs_WhatsApp-Image-2019-10-04-at-12.39.21-PM-1.jpeg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\gallery\world-heart-day\thumbs\thumbs_WhatsApp-Image-2019-10-04-at-12.39.21-PM-1.jpeg
+Content Type: image/jpeg
+
+Uri: http://sacon.edu.in/wp-content/gallery/world-heart-day/thumbs/thumbs_WhatsApp-Image-2019-10-04-at-12.39.21-PM-2.jpeg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\gallery\world-heart-day\thumbs\thumbs_WhatsApp-Image-2019-10-04-at-12.39.21-PM-2.jpeg
+Content Type: image/jpeg
+
+Uri: http://sacon.edu.in/wp-content/gallery/world-heart-day/thumbs/thumbs_WhatsApp-Image-2019-10-04-at-12.39.19-PM-1.jpeg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\gallery\world-heart-day\thumbs\thumbs_WhatsApp-Image-2019-10-04-at-12.39.19-PM-1.jpeg
+Content Type: image/jpeg
+
+Uri: http://sacon.edu.in/wp-content/gallery/nss-activities/thumbs/thumbs_WhatsApp-Image-2019-10-04-at-12.28.15-PM-1-e1570172963460.jpeg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\gallery\nss-activities\thumbs\thumbs_WhatsApp-Image-2019-10-04-at-12.28.15-PM-1-e1570172963460.jpeg
+Content Type: image/jpeg
+
+Uri: http://sacon.edu.in/wp-content/gallery/nss-activities/thumbs/thumbs_WhatsApp-Image-2019-10-04-at-12.28.15-PM-2.jpeg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\gallery\nss-activities\thumbs\thumbs_WhatsApp-Image-2019-10-04-at-12.28.15-PM-2.jpeg
+Content Type: image/jpeg
+
+Uri: http://sacon.edu.in/wp-content/gallery/nss-activities/thumbs/thumbs_WhatsApp-Image-2019-10-04-at-12.28.15-PM-e1570172916752.jpeg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\gallery\nss-activities\thumbs\thumbs_WhatsApp-Image-2019-10-04-at-12.28.15-PM-e1570172916752.jpeg
+Content Type: image/jpeg
+
+Uri: http://sacon.edu.in/wp-content/gallery/nss-activities/thumbs/thumbs_WhatsApp-Image-2019-10-04-at-12.28.16-PM-1.jpeg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\gallery\nss-activities\thumbs\thumbs_WhatsApp-Image-2019-10-04-at-12.28.16-PM-1.jpeg
+Content Type: image/jpeg
+
+Uri: http://sacon.edu.in/wp-content/gallery/nss-activities/thumbs/thumbs_WhatsApp-Image-2019-10-04-at-12.28.16-PM-2.jpeg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\gallery\nss-activities\thumbs\thumbs_WhatsApp-Image-2019-10-04-at-12.28.16-PM-2.jpeg
+Content Type: image/jpeg
+
+Uri: http://sacon.edu.in/wp-content/gallery/nss-activities/thumbs/thumbs_WhatsApp-Image-2019-10-04-at-12.28.16-PM.jpeg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\gallery\nss-activities\thumbs\thumbs_WhatsApp-Image-2019-10-04-at-12.28.16-PM.jpeg
+Content Type: image/jpeg
+
+Uri: http://sacon.edu.in/wp-content/gallery/nss-activities/thumbs/thumbs_WhatsApp-Image-2019-10-04-at-12.28.17-PM-1.jpeg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\gallery\nss-activities\thumbs\thumbs_WhatsApp-Image-2019-10-04-at-12.28.17-PM-1.jpeg
+Content Type: image/jpeg
+
+Uri: http://sacon.edu.in/wp-content/gallery/nss-activities/thumbs/thumbs_WhatsApp-Image-2019-10-04-at-12.28.17-PM-2.jpeg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\gallery\nss-activities\thumbs\thumbs_WhatsApp-Image-2019-10-04-at-12.28.17-PM-2.jpeg
+Content Type: image/jpeg
+
+Uri: http://sacon.edu.in/wp-content/gallery/nss-activities/thumbs/thumbs_WhatsApp-Image-2019-10-04-at-12.28.17-PM.jpeg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\gallery\nss-activities\thumbs\thumbs_WhatsApp-Image-2019-10-04-at-12.28.17-PM.jpeg
+Content Type: image/jpeg
+
+Uri: http://sacon.edu.in/wp-content/gallery/nss-activities/thumbs/thumbs_WhatsApp-Image-2019-10-04-at-12.28.18-PM.jpeg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\gallery\nss-activities\thumbs\thumbs_WhatsApp-Image-2019-10-04-at-12.28.18-PM.jpeg
+Content Type: image/jpeg
+
+Uri: http://sacon.edu.in/wp-content/uploads/essential-addons-elementor/ac8e04b72.min.js?ver=1627888512
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\essential-addons-elementor\ac8e04b72.min.js
+Content Type: application/javascript
+
+Uri: http://sacon.edu.in/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/ajax/static/ajax.min.js?ver=3.3.20
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\plugins\nextgen-gallery\products\photocrati_nextgen\modules\ajax\static\ajax.min.js
+Content Type: application/javascript
+
+Uri: http://sacon.edu.in/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_gallery_display/static/common.js?ver=3.3.20
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\plugins\nextgen-gallery\products\photocrati_nextgen\modules\nextgen_gallery_display\static\common.js
+Content Type: application/javascript
+
+Uri: http://sacon.edu.in/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_basic_gallery/static/thumbnails/nextgen_basic_thumbnails.js?ver=3.3.20
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\plugins\nextgen-gallery\products\photocrati_nextgen\modules\nextgen_basic_gallery\static\thumbnails\nextgen_basic_thumbnails.js
+Content Type: application/javascript
+
+Uri: http://sacon.edu.in/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/lightbox/static/lightbox_context.js?ver=3.3.20
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\plugins\nextgen-gallery\products\photocrati_nextgen\modules\lightbox\static\lightbox_context.js
+Content Type: application/javascript
+
+Uri: http://sacon.edu.in/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/lightbox/static/simplelightbox/simple-lightbox.js?ver=3.3.20
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\plugins\nextgen-gallery\products\photocrati_nextgen\modules\lightbox\static\simplelightbox\simple-lightbox.js
+Content Type: application/javascript
+
+Uri: http://sacon.edu.in/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/lightbox/static/simplelightbox/nextgen_simple_lightbox_init.js?ver=3.3.20
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\plugins\nextgen-gallery\products\photocrati_nextgen\modules\lightbox\static\simplelightbox\nextgen_simple_lightbox_init.js
+Content Type: application/javascript
+
+Uri: https://use.fontawesome.com/releases/v5.3.1/js/v4-shims.js?ver=5.3.1
+File Name: C:\Downloaded Web Sites\sacon.edu.in\releases\v5.3.1\js\v4-shims.js
+Content Type: application/javascript
+
+Uri: https://use.fontawesome.com/releases/v5.3.1/js/all.js?ver=5.3.1
+File Name: C:\Downloaded Web Sites\sacon.edu.in\releases\v5.3.1\js\all.js
+Content Type: application/javascript
+
+Uri: http://sacon.edu.in/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_basic_gallery/static/thumbnails/ajax_pagination.js?ver=3.3.20
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\plugins\nextgen-gallery\products\photocrati_nextgen\modules\nextgen_basic_gallery\static\thumbnails\ajax_pagination.js
+Content Type: application/javascript
+
+Uri: http://sacon.edu.in/wp-content/uploads/essential-addons-elementor/31a3f9087.min.css?ver=1627888516
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\essential-addons-elementor\31a3f9087.min.css
+Content Type: text/css
+
+Uri: http://sacon.edu.in/wp-content/uploads/elementor/css/post-334.css?ver=1604660939
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\elementor\css\post-334.css
+Content Type: text/css
+
+Uri: http://sacon.edu.in/wp-json/oembed/1.0/embed?url=http:%2F%2Fsacon.edu.in%2Fexternal%2F
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-json\oembed\1.0\embed-11.json
+Content Type: application/json
+
+Uri: http://sacon.edu.in/wp-json/oembed/1.0/embed?url=http:%2F%2Fsacon.edu.in%2Fexternal%2F&format=xml
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-json\oembed\1.0\embed-11.xml
+Content Type: text/xml
+
+Uri: http://sacon.edu.in/wp-content/uploads/essential-addons-elementor/31a3f9087.min.js?ver=1627888516
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\essential-addons-elementor\31a3f9087.min.js
+Content Type: application/javascript
+
+Uri: http://sacon.edu.in/wp-content/uploads/essential-addons-elementor/62162a5eb.min.css?ver=1627888519
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\essential-addons-elementor\62162a5eb.min.css
+Content Type: text/css
+
+Uri: http://sacon.edu.in/wp-content/uploads/elementor/css/post-332.css?ver=1604749873
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\elementor\css\post-332.css
+Content Type: text/css
+
+Uri: http://sacon.edu.in/wp-json/oembed/1.0/embed?url=http:%2F%2Fsacon.edu.in%2Ffull-time%2F
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-json\oembed\1.0\embed-12.json
+Content Type: application/json
+
+Uri: http://sacon.edu.in/wp-json/oembed/1.0/embed?url=http:%2F%2Fsacon.edu.in%2Ffull-time%2F&format=xml
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-json\oembed\1.0\embed-12.xml
+Content Type: text/xml
+
+Uri: http://sacon.edu.in/wp-content/uploads/essential-addons-elementor/62162a5eb.min.js?ver=1627888519
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\essential-addons-elementor\62162a5eb.min.js
+Content Type: application/javascript
+
+Uri: http://sacon.edu.in/wp-content/uploads/essential-addons-elementor/335fb2123.min.css?ver=1627888524
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\essential-addons-elementor\335fb2123.min.css
+Content Type: text/css
+
+Uri: http://sacon.edu.in/wp-content/uploads/elementor/css/post-12.css?ver=1604659098
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\elementor\css\post-12.css
+Content Type: text/css
+
+Uri: http://sacon.edu.in/wp-json/oembed/1.0/embed?url=http:%2F%2Fsacon.edu.in%2Fadmissions%2F
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-json\oembed\1.0\embed-13.json
+Content Type: application/json
+
+Uri: http://sacon.edu.in/wp-json/oembed/1.0/embed?url=http:%2F%2Fsacon.edu.in%2Fadmissions%2F&format=xml
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-json\oembed\1.0\embed-13.xml
+Content Type: text/xml
+
+Uri: http://sacon.edu.in/wp-content/uploads/essential-addons-elementor/335fb2123.min.js?ver=1627888524
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\essential-addons-elementor\335fb2123.min.js
+Content Type: application/javascript
+
+Uri: http://sacon.edu.in/wp-content/uploads/essential-addons-elementor/78369b2a0.min.css?ver=1627888528
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\essential-addons-elementor\78369b2a0.min.css
+Content Type: text/css
+
+Uri: http://sacon.edu.in/wp-content/uploads/elementor/css/post-366.css?ver=1604655850
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\elementor\css\post-366.css
+Content Type: text/css
+
+Uri: http://sacon.edu.in/wp-json/oembed/1.0/embed?url=http:%2F%2Fsacon.edu.in%2Fadmissions%2Fbbsc-nursing%2F
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-json\oembed\1.0\embed-14.json
+Content Type: application/json
+
+Uri: http://sacon.edu.in/wp-json/oembed/1.0/embed?url=http:%2F%2Fsacon.edu.in%2Fadmissions%2Fbbsc-nursing%2F&format=xml
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-json\oembed\1.0\embed-14.xml
+Content Type: text/xml
+
+Uri: http://sacon.edu.in/wp-content/uploads/essential-addons-elementor/78369b2a0.min.js?ver=1627888528
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\essential-addons-elementor\78369b2a0.min.js
+Content Type: application/javascript
+
+Uri: http://sacon.edu.in/wp-content/plugins/elementor/assets/lib/jquery-numerator/jquery-numerator.min.js?ver=0.2.1
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\plugins\elementor\assets\lib\jquery-numerator\jquery-numerator.min.js
+Content Type: application/javascript
+
+Uri: http://sacon.edu.in/wp-content/uploads/essential-addons-elementor/d991e159b.min.css?ver=1627888531
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\essential-addons-elementor\d991e159b.min.css
+Content Type: text/css
+
+Uri: http://sacon.edu.in/wp-content/uploads/elementor/css/post-368.css?ver=1604675912
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\elementor\css\post-368.css
+Content Type: text/css
+
+Uri: http://sacon.edu.in/wp-json/oembed/1.0/embed?url=http:%2F%2Fsacon.edu.in%2Fadmissions%2Fmsc-nursing%2F
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-json\oembed\1.0\embed-15.json
+Content Type: application/json
+
+Uri: http://sacon.edu.in/wp-json/oembed/1.0/embed?url=http:%2F%2Fsacon.edu.in%2Fadmissions%2Fmsc-nursing%2F&format=xml
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-json\oembed\1.0\embed-15.xml
+Content Type: text/xml
+
+Uri: http://sacon.edu.in/wp-content/uploads/essential-addons-elementor/d991e159b.min.js?ver=1627888531
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\essential-addons-elementor\d991e159b.min.js
+Content Type: application/javascript
+
+Uri: http://sacon.edu.in/wp-content/uploads/essential-addons-elementor/99dfef88f.min.css?ver=1627888535
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\essential-addons-elementor\99dfef88f.min.css
+Content Type: text/css
+
+Uri: http://sacon.edu.in/wp-content/uploads/elementor/css/post-370.css?ver=1604600181
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\elementor\css\post-370.css
+Content Type: text/css
+
+Uri: http://sacon.edu.in/wp-json/oembed/1.0/embed?url=http:%2F%2Fsacon.edu.in%2Fadmissions%2Fpbbsc-nursing%2F
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-json\oembed\1.0\embed-16.json
+Content Type: application/json
+
+Uri: http://sacon.edu.in/wp-json/oembed/1.0/embed?url=http:%2F%2Fsacon.edu.in%2Fadmissions%2Fpbbsc-nursing%2F&format=xml
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-json\oembed\1.0\embed-16.xml
+Content Type: text/xml
+
+Uri: http://sacon.edu.in/wp-content/uploads/essential-addons-elementor/99dfef88f.min.js?ver=1627888535
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\essential-addons-elementor\99dfef88f.min.js
+Content Type: application/javascript
+
+Uri: http://sacon.edu.in/wp-content/uploads/essential-addons-elementor/880fda179.min.css?ver=1627888538
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\essential-addons-elementor\880fda179.min.css
+Content Type: text/css
+
+Uri: http://sacon.edu.in/wp-content/uploads/elementor/css/post-350.css?ver=1604668561
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\elementor\css\post-350.css
+Content Type: text/css
+
+Uri: http://sacon.edu.in/wp-json/oembed/1.0/embed?url=http:%2F%2Fsacon.edu.in%2Fscholarship%2Fishyanya-foundation%2F
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-json\oembed\1.0\embed-17.json
+Content Type: application/json
+
+Uri: http://sacon.edu.in/wp-json/oembed/1.0/embed?url=http:%2F%2Fsacon.edu.in%2Fscholarship%2Fishyanya-foundation%2F&format=xml
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-json\oembed\1.0\embed-17.xml
+Content Type: text/xml
+
+Uri: http://sacon.edu.in/wp-content/uploads/essential-addons-elementor/880fda179.min.js?ver=1627888538
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\essential-addons-elementor\880fda179.min.js
+Content Type: application/javascript
+
+Uri: http://sacon.edu.in/wp-content/uploads/essential-addons-elementor/f147839e0.min.css?ver=1627888543
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\essential-addons-elementor\f147839e0.min.css
+Content Type: text/css
+
+Uri: http://sacon.edu.in/wp-content/uploads/elementor/css/post-348.css?ver=1605766313
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\elementor\css\post-348.css
+Content Type: text/css
+
+Uri: http://sacon.edu.in/wp-json/oembed/1.0/embed?url=http:%2F%2Fsacon.edu.in%2Fscholarship%2Flpf%2F
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-json\oembed\1.0\embed-18.json
+Content Type: application/json
+
+Uri: http://sacon.edu.in/wp-json/oembed/1.0/embed?url=http:%2F%2Fsacon.edu.in%2Fscholarship%2Flpf%2F&format=xml
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-json\oembed\1.0\embed-18.xml
+Content Type: text/xml
+
+Uri: http://sacon.edu.in/wp-content/uploads/essential-addons-elementor/f147839e0.min.js?ver=1627888543
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\essential-addons-elementor\f147839e0.min.js
+Content Type: application/javascript
+
+Uri: http://sacon.edu.in/wp-content/uploads/essential-addons-elementor/fe0ed8331.min.css?ver=1627888546
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\essential-addons-elementor\fe0ed8331.min.css
+Content Type: text/css
+
+Uri: http://sacon.edu.in/wp-content/uploads/elementor/css/post-352.css?ver=1605336205
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\elementor\css\post-352.css
+Content Type: text/css
+
+Uri: http://sacon.edu.in/wp-json/oembed/1.0/embed?url=http:%2F%2Fsacon.edu.in%2Fscholarship%2Fministry-of-minority-affairs%2F
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-json\oembed\1.0\embed-19.json
+Content Type: application/json
+
+Uri: http://sacon.edu.in/wp-json/oembed/1.0/embed?url=http:%2F%2Fsacon.edu.in%2Fscholarship%2Fministry-of-minority-affairs%2F&format=xml
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-json\oembed\1.0\embed-19.xml
+Content Type: text/xml
+
+Uri: http://sacon.edu.in/wp-content/uploads/essential-addons-elementor/fe0ed8331.min.js?ver=1627888546
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\essential-addons-elementor\fe0ed8331.min.js
+Content Type: application/javascript
+
+Uri: http://sacon.edu.in/wp-content/uploads/essential-addons-elementor/f717fcff0.min.css?ver=1627888550
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\essential-addons-elementor\f717fcff0.min.css
+Content Type: text/css
+
+Uri: http://sacon.edu.in/wp-json/oembed/1.0/embed?url=http:%2F%2Fsacon.edu.in%2Fscholarship%2Fsavitribai-phule%2F
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-json\oembed\1.0\embed-20.json
+Content Type: application/json
+
+Uri: http://sacon.edu.in/wp-json/oembed/1.0/embed?url=http:%2F%2Fsacon.edu.in%2Fscholarship%2Fsavitribai-phule%2F&format=xml
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-json\oembed\1.0\embed-20.xml
+Content Type: text/xml
+
+Uri: http://sacon.edu.in/wp-content/uploads/essential-addons-elementor/f717fcff0.min.js?ver=1627888550
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\essential-addons-elementor\f717fcff0.min.js
+Content Type: application/javascript
+
+Uri: http://sacon.edu.in/wp-content/uploads/essential-addons-elementor/b3bd9c2f9.min.css?ver=1627888554
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\essential-addons-elementor\b3bd9c2f9.min.css
+Content Type: text/css
+
+Uri: http://sacon.edu.in/wp-content/uploads/elementor/css/post-320.css?ver=1604656409
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\elementor\css\post-320.css
+Content Type: text/css
+
+Uri: http://sacon.edu.in/wp-json/oembed/1.0/embed?url=http:%2F%2Fsacon.edu.in%2Facademic%2Facademic-calender%2F
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-json\oembed\1.0\embed-21.json
+Content Type: application/json
+
+Uri: http://sacon.edu.in/wp-json/oembed/1.0/embed?url=http:%2F%2Fsacon.edu.in%2Facademic%2Facademic-calender%2F&format=xml
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-json\oembed\1.0\embed-21.xml
+Content Type: text/xml
+
+Uri: http://sacon.edu.in/academic/
+File Name: C:\Downloaded Web Sites\sacon.edu.in\academic\index.htm
+Content Type: text/html
+
+Uri: http://sacon.edu.in/wp-content/uploads/essential-addons-elementor/b3bd9c2f9.min.js?ver=1627888554
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\essential-addons-elementor\b3bd9c2f9.min.js
+Content Type: application/javascript
+
+Uri: http://sacon.edu.in/wp-content/uploads/essential-addons-elementor/c14a8bc03.min.css?ver=1627888557
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\essential-addons-elementor\c14a8bc03.min.css
+Content Type: text/css
+
+Uri: http://sacon.edu.in/wp-content/uploads/elementor/css/post-935.css?ver=1604662186
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\elementor\css\post-935.css
+Content Type: text/css
+
+Uri: http://sacon.edu.in/wp-json/oembed/1.0/embed?url=http:%2F%2Fsacon.edu.in%2Fcommunity-outreach%2Factivities%2Fco-curricular%2F
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-json\oembed\1.0\embed-22.json
+Content Type: application/json
+
+Uri: http://sacon.edu.in/wp-json/oembed/1.0/embed?url=http:%2F%2Fsacon.edu.in%2Fcommunity-outreach%2Factivities%2Fco-curricular%2F&format=xml
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-json\oembed\1.0\embed-22.xml
+Content Type: text/xml
+
+Uri: http://sacon.edu.in/wp-content/uploads/essential-addons-elementor/c14a8bc03.min.js?ver=1627888557
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\essential-addons-elementor\c14a8bc03.min.js
+Content Type: application/javascript
+
+Uri: http://sacon.edu.in/wp-content/uploads/essential-addons-elementor/1677cd3a8.min.css?ver=1627888560
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\essential-addons-elementor\1677cd3a8.min.css
+Content Type: text/css
+
+Uri: http://sacon.edu.in/wp-content/uploads/elementor/css/post-939.css?ver=1604612678
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\elementor\css\post-939.css
+Content Type: text/css
+
+Uri: http://sacon.edu.in/wp-json/oembed/1.0/embed?url=http:%2F%2Fsacon.edu.in%2Fcommunity-outreach%2Factivities%2Fextra-curricular%2F
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-json\oembed\1.0\embed-23.json
+Content Type: application/json
+
+Uri: http://sacon.edu.in/wp-json/oembed/1.0/embed?url=http:%2F%2Fsacon.edu.in%2Fcommunity-outreach%2Factivities%2Fextra-curricular%2F&format=xml
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-json\oembed\1.0\embed-23.xml
+Content Type: text/xml
+
+Uri: http://sacon.edu.in/wp-content/uploads/essential-addons-elementor/1677cd3a8.min.js?ver=1627888560
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\essential-addons-elementor\1677cd3a8.min.js
+Content Type: application/javascript
+
+Uri: http://sacon.edu.in/wp-content/uploads/essential-addons-elementor/99eb167e0.min.css?ver=1627888564
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\essential-addons-elementor\99eb167e0.min.css
+Content Type: text/css
+
+Uri: http://sacon.edu.in/wp-content/uploads/elementor/css/post-364.css?ver=1604619107
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\elementor\css\post-364.css
+Content Type: text/css
+
+Uri: http://sacon.edu.in/wp-json/oembed/1.0/embed?url=http:%2F%2Fsacon.edu.in%2Fcommunity-outreach%2Fhealth-camp%2F
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-json\oembed\1.0\embed-24.json
+Content Type: application/json
+
+Uri: http://sacon.edu.in/wp-json/oembed/1.0/embed?url=http:%2F%2Fsacon.edu.in%2Fcommunity-outreach%2Fhealth-camp%2F&format=xml
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-json\oembed\1.0\embed-24.xml
+Content Type: text/xml
+
+Uri: http://sacon.edu.in/wp-content/uploads/essential-addons-elementor/99eb167e0.min.js?ver=1627888564
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\essential-addons-elementor\99eb167e0.min.js
+Content Type: application/javascript
+
+Uri: http://sacon.edu.in/wp-content/uploads/essential-addons-elementor/ff245e95b.min.css?ver=1627888568
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\essential-addons-elementor\ff245e95b.min.css
+Content Type: text/css
+
+Uri: http://sacon.edu.in/wp-content/uploads/elementor/css/post-362.css?ver=1604620370
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\elementor\css\post-362.css
+Content Type: text/css
+
+Uri: http://sacon.edu.in/wp-json/oembed/1.0/embed?url=http:%2F%2Fsacon.edu.in%2Fcommunity-outreach%2Fnss-activities%2F
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-json\oembed\1.0\embed-25.json
+Content Type: application/json
+
+Uri: http://sacon.edu.in/wp-json/oembed/1.0/embed?url=http:%2F%2Fsacon.edu.in%2Fcommunity-outreach%2Fnss-activities%2F&format=xml
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-json\oembed\1.0\embed-25.xml
+Content Type: text/xml
+
+Uri: http://sacon.edu.in/wp-content/uploads/essential-addons-elementor/ff245e95b.min.js?ver=1627888568
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\essential-addons-elementor\ff245e95b.min.js
+Content Type: application/javascript
+
+Uri: http://sacon.edu.in/wp-content/uploads/essential-addons-elementor/ae007e6e9.min.css?ver=1627888571
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\essential-addons-elementor\ae007e6e9.min.css
+Content Type: text/css
+
+Uri: http://sacon.edu.in/wp-content/uploads/elementor/css/post-20.css?ver=1604690359
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\elementor\css\post-20.css
+Content Type: text/css
+
+Uri: http://sacon.edu.in/wp-json/oembed/1.0/embed?url=http:%2F%2Fsacon.edu.in%2Fcontact%2F
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-json\oembed\1.0\embed-26.json
+Content Type: application/json
+
+Uri: http://sacon.edu.in/wp-json/oembed/1.0/embed?url=http:%2F%2Fsacon.edu.in%2Fcontact%2F&format=xml
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-json\oembed\1.0\embed-26.xml
+Content Type: text/xml
+
+Uri: http://sacon.edu.in/wp-content/uploads/essential-addons-elementor/ae007e6e9.min.js?ver=1627888571
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\essential-addons-elementor\ae007e6e9.min.js
+Content Type: application/javascript
+
+Uri: http://sacon.edu.in/wp-content/uploads/essential-addons-elementor/bdd83e41e.min.css?ver=1627888575
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\essential-addons-elementor\bdd83e41e.min.css
+Content Type: text/css
+
+Uri: http://sacon.edu.in/wp-content/uploads/elementor/css/post-799.css?ver=1604699786
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\elementor\css\post-799.css
+Content Type: text/css
+
+Uri: http://sacon.edu.in/wp-json/oembed/1.0/embed?url=http:%2F%2Fsacon.edu.in%2Fenquiry%2F
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-json\oembed\1.0\embed-27.json
+Content Type: application/json
+
+Uri: http://sacon.edu.in/wp-json/oembed/1.0/embed?url=http:%2F%2Fsacon.edu.in%2Fenquiry%2F&format=xml
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-json\oembed\1.0\embed-27.xml
+Content Type: text/xml
+
+Uri: http://sacon.edu.in/wp-content/uploads/elementor/css/post-801.css?ver=1604699786
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\elementor\css\post-801.css
+Content Type: text/css
+
+Uri: http://sacon.edu.in/wp-content/uploads/elementor/css/post-1164.css?ver=1604699787
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\elementor\css\post-1164.css
+Content Type: text/css
+
+Uri: http://sacon.edu.in/wp-content/uploads/elementor/css/post-1160.css?ver=1604699787
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\elementor\css\post-1160.css
+Content Type: text/css
+
+Uri: http://sacon.edu.in/wp-content/uploads/essential-addons-elementor/bdd83e41e.min.js?ver=1627888575
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\essential-addons-elementor\bdd83e41e.min.js
+Content Type: application/javascript
+
+Uri: http://sacon.edu.in/wp-content/uploads/essential-addons-elementor/40c18c020.min.css?ver=1627888579
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\essential-addons-elementor\40c18c020.min.css
+Content Type: text/css
+
+Uri: http://sacon.edu.in/wp-content/uploads/elementor/css/post-346.css?ver=1604696742
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\elementor\css\post-346.css
+Content Type: text/css
+
+Uri: http://sacon.edu.in/wp-json/oembed/1.0/embed?url=http:%2F%2Fsacon.edu.in%2Fscholarship%2F
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-json\oembed\1.0\embed-28.json
+Content Type: application/json
+
+Uri: http://sacon.edu.in/wp-json/oembed/1.0/embed?url=http:%2F%2Fsacon.edu.in%2Fscholarship%2F&format=xml
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-json\oembed\1.0\embed-28.xml
+Content Type: text/xml
+
+Uri: http://sacon.edu.in/wp-content/uploads/essential-addons-elementor/40c18c020.min.js?ver=1627888579
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\essential-addons-elementor\40c18c020.min.js
+Content Type: application/javascript
+
+Uri: http://sacon.edu.in/wp-content/uploads/essential-addons-elementor/aa1463fb2.min.css?ver=1627888582
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\essential-addons-elementor\aa1463fb2.min.css
+Content Type: text/css
+
+Uri: http://sacon.edu.in/wp-json/oembed/1.0/embed?url=http:%2F%2Fsacon.edu.in%2Fcommunity-outreach%2F
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-json\oembed\1.0\embed-29.json
+Content Type: application/json
+
+Uri: http://sacon.edu.in/wp-json/oembed/1.0/embed?url=http:%2F%2Fsacon.edu.in%2Fcommunity-outreach%2F&format=xml
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-json\oembed\1.0\embed-29.xml
+Content Type: text/xml
+
+Uri: http://sacon.edu.in/wp-content/uploads/essential-addons-elementor/aa1463fb2.min.js?ver=1627888582
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\essential-addons-elementor\aa1463fb2.min.js
+Content Type: application/javascript
+
+Uri: http://sacon.edu.in/wp-content/uploads/essential-addons-elementor/2fca8e0e3.min.css?ver=1627888585
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\essential-addons-elementor\2fca8e0e3.min.css
+Content Type: text/css
+
+Uri: http://sacon.edu.in/wp-content/uploads/elementor/css/post-358.css?ver=1604583527
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\elementor\css\post-358.css
+Content Type: text/css
+
+Uri: http://sacon.edu.in/wp-json/oembed/1.0/embed?url=http:%2F%2Fsacon.edu.in%2Fcommunity-outreach%2Factivities%2F
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-json\oembed\1.0\embed-30.json
+Content Type: application/json
+
+Uri: http://sacon.edu.in/wp-json/oembed/1.0/embed?url=http:%2F%2Fsacon.edu.in%2Fcommunity-outreach%2Factivities%2F&format=xml
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-json\oembed\1.0\embed-30.xml
+Content Type: text/xml
+
+Uri: http://sacon.edu.in/wp-content/uploads/2019/10/WhatsApp-Image-2019-10-04-at-1.50.00-PM-1-1024x471.jpeg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\2019\10\WhatsApp-Image-2019-10-04-at-1.50.00-PM-1-1024x471.jpeg
+Content Type: image/jpeg
+
+Uri: http://sacon.edu.in/wp-content/uploads/2019/10/WhatsApp-Image-2019-10-04-at-1.49.59-PM-1024x472.jpeg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\2019\10\WhatsApp-Image-2019-10-04-at-1.49.59-PM-1024x472.jpeg
+Content Type: image/jpeg
+
+Uri: http://sacon.edu.in/wp-content/uploads/2019/10/WhatsApp-Image-2019-10-04-at-1.50.00-PM-472x1024.jpeg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\2019\10\WhatsApp-Image-2019-10-04-at-1.50.00-PM-472x1024.jpeg
+Content Type: image/jpeg
+
+Uri: http://sacon.edu.in/wp-content/uploads/2019/10/WhatsApp-Image-2019-10-04-at-1.50.01-PM-1024x472.jpeg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\2019\10\WhatsApp-Image-2019-10-04-at-1.50.01-PM-1024x472.jpeg
+Content Type: image/jpeg
+
+Uri: http://sacon.edu.in/wp-content/uploads/2019/10/WhatsApp-Image-2019-10-04-at-1.49.58-PM-1024x472.jpeg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\2019\10\WhatsApp-Image-2019-10-04-at-1.49.58-PM-1024x472.jpeg
+Content Type: image/jpeg
+
+Uri: http://sacon.edu.in/wp-content/uploads/2019/10/WhatsApp-Image-2019-10-04-at-1.50.51-PM-1024x768.jpeg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\2019\10\WhatsApp-Image-2019-10-04-at-1.50.51-PM-1024x768.jpeg
+Content Type: image/jpeg
+
+Uri: http://sacon.edu.in/wp-content/plugins/elementor/assets/lib/e-gallery/css/e-gallery.min.css?ver=1.2.0
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\plugins\elementor\assets\lib\e-gallery\css\e-gallery.min.css
+Content Type: text/css
+
+Uri: http://sacon.edu.in/wp-content/uploads/essential-addons-elementor/2fca8e0e3.min.js?ver=1627888585
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\essential-addons-elementor\2fca8e0e3.min.js
+Content Type: application/javascript
+
+Uri: http://sacon.edu.in/wp-content/plugins/elementor/assets/lib/e-gallery/js/e-gallery.min.js?ver=1.2.0
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\plugins\elementor\assets\lib\e-gallery\js\e-gallery.min.js
+Content Type: application/javascript
+
+Uri: http://sacon.edu.in/wp-content/uploads/essential-addons-elementor/533f5bf17.min.css?ver=1627888589
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\essential-addons-elementor\533f5bf17.min.css
+Content Type: text/css
+
+Uri: http://sacon.edu.in/wp-json/oembed/1.0/embed?url=http:%2F%2Fsacon.edu.in%2Fnotice%2Fchristmas-holiday-on-25th-dec%2F
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-json\oembed\1.0\embed-31.json
+Content Type: application/json
+
+Uri: http://sacon.edu.in/wp-json/oembed/1.0/embed?url=http:%2F%2Fsacon.edu.in%2Fnotice%2Fchristmas-holiday-on-25th-dec%2F&format=xml
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-json\oembed\1.0\embed-31.xml
+Content Type: text/xml
+
+Uri: http://sacon.edu.in/wp-content/uploads/essential-addons-elementor/533f5bf17.min.js?ver=1627888589
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\essential-addons-elementor\533f5bf17.min.js
+Content Type: application/javascript
+
+Uri: http://sacon.edu.in/wp-content/uploads/essential-addons-elementor/dfcc4860c.min.css?ver=1627888595
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\essential-addons-elementor\dfcc4860c.min.css
+Content Type: text/css
+
+Uri: http://sacon.edu.in/wp-json/oembed/1.0/embed?url=http:%2F%2Fsacon.edu.in%2Fnotice%2Fguru-nanak-jayanti-on-12th-nov-2019%2F
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-json\oembed\1.0\embed-32.json
+Content Type: application/json
+
+Uri: http://sacon.edu.in/wp-json/oembed/1.0/embed?url=http:%2F%2Fsacon.edu.in%2Fnotice%2Fguru-nanak-jayanti-on-12th-nov-2019%2F&format=xml
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-json\oembed\1.0\embed-32.xml
+Content Type: text/xml
+
+Uri: http://sacon.edu.in/wp-content/uploads/essential-addons-elementor/dfcc4860c.min.js?ver=1627888595
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\essential-addons-elementor\dfcc4860c.min.js
+Content Type: application/javascript
+
+Uri: http://sacon.edu.in/wp-content/uploads/essential-addons-elementor/c79fb8884.min.css?ver=1627888598
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\essential-addons-elementor\c79fb8884.min.css
+Content Type: text/css
+
+Uri: http://sacon.edu.in/wp-json/oembed/1.0/embed?url=http:%2F%2Fsacon.edu.in%2Fnotice%2Fdiwali-holidays-from-26-10-2019-to-09-11-2019%2F
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-json\oembed\1.0\embed-33.json
+Content Type: application/json
+
+Uri: http://sacon.edu.in/wp-json/oembed/1.0/embed?url=http:%2F%2Fsacon.edu.in%2Fnotice%2Fdiwali-holidays-from-26-10-2019-to-09-11-2019%2F&format=xml
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-json\oembed\1.0\embed-33.xml
+Content Type: text/xml
+
+Uri: http://sacon.edu.in/wp-content/uploads/essential-addons-elementor/c79fb8884.min.js?ver=1627888598
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\essential-addons-elementor\c79fb8884.min.js
+Content Type: application/javascript
+
+Uri: http://sacon.edu.in/wp-content/uploads/essential-addons-elementor/78e98be57.min.css?ver=1627888601
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\essential-addons-elementor\78e98be57.min.css
+Content Type: text/css
+
+Uri: http://sacon.edu.in/wp-content/uploads/elementor/css/post-926.css?ver=1606127555
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\elementor\css\post-926.css
+Content Type: text/css
+
+Uri: http://sacon.edu.in/wp-json/oembed/1.0/embed?url=http:%2F%2Fsacon.edu.in%2Fupcoming-events%2F
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-json\oembed\1.0\embed-34.json
+Content Type: application/json
+
+Uri: http://sacon.edu.in/wp-json/oembed/1.0/embed?url=http:%2F%2Fsacon.edu.in%2Fupcoming-events%2F&format=xml
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-json\oembed\1.0\embed-34.xml
+Content Type: text/xml
+
+Uri: http://sacon.edu.in/past-events/
+File Name: C:\Downloaded Web Sites\sacon.edu.in\past-events\index.htm
+Content Type: text/html
+
+Uri: http://sacon.edu.in/wp-content/uploads/essential-addons-elementor/78e98be57.min.js?ver=1627888601
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\essential-addons-elementor\78e98be57.min.js
+Content Type: application/javascript
+
+Uri: http://sacon.edu.in/event/angular-tutorial/feed/
+File Name: C:\Downloaded Web Sites\sacon.edu.in\event\angular-tutorial\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: http://sacon.edu.in/wp-content/uploads/essential-addons-elementor/60712e89c.min.css?ver=1627888606
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\essential-addons-elementor\60712e89c.min.css
+Content Type: text/css
+
+Uri: http://sacon.edu.in/wp-content/uploads/elementor/css/post-606.css?ver=1604719422
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\elementor\css\post-606.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Roboto+Slab:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Poppins:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Lato:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&ver=5.3.2
+File Name: C:\Downloaded Web Sites\sacon.edu.in\css-4.css
+Content Type: text/css
+
+Uri: http://sacon.edu.in/wp-json/oembed/1.0/embed?url=http:%2F%2Fsacon.edu.in%2Fevent%2Fangular-tutorial%2F
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-json\oembed\1.0\embed-35.json
+Content Type: application/json
+
+Uri: http://sacon.edu.in/wp-json/oembed/1.0/embed?url=http:%2F%2Fsacon.edu.in%2Fevent%2Fangular-tutorial%2F&format=xml
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-json\oembed\1.0\embed-35.xml
+Content Type: text/xml
+
+Uri: http://sacon.edu.in/locations/st-andrews-college/
+File Name: C:\Downloaded Web Sites\sacon.edu.in\locations\st-andrews-college\index.htm
+Content Type: text/html
+
+Uri: http://sacon.edu.in/wp-content/uploads/elementor/thumbs/tyler-callahan-662157-unsplash-900x500-ofopz7exb8xvmo89x1v84epzfwvsya7a643tej03bk.jpg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\elementor\thumbs\tyler-callahan-662157-unsplash-900x500-ofopz7exb8xvmo89x1v84epzfwvsya7a643tej03bk.jpg
+Content Type: image/jpeg
+
+Uri: http://sacon.edu.in/wp-content/uploads/essential-addons-elementor/60712e89c.min.js?ver=1627888606
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\essential-addons-elementor\60712e89c.min.js
+Content Type: application/javascript
+
+Uri: http://sacon.edu.in/wp-includes/js/comment-reply.min.js?ver=5.3.2
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-includes\js\comment-reply.min.js
+Content Type: application/javascript
+
+Uri: http://sacon.edu.in/event/muhs-sport-compitition/feed/
+File Name: C:\Downloaded Web Sites\sacon.edu.in\event\muhs-sport-compitition\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: http://sacon.edu.in/wp-content/uploads/essential-addons-elementor/b1870e5b4.min.css?ver=1627888609
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\essential-addons-elementor\b1870e5b4.min.css
+Content Type: text/css
+
+Uri: http://sacon.edu.in/wp-json/oembed/1.0/embed?url=http:%2F%2Fsacon.edu.in%2Fevent%2Fmuhs-sport-compitition%2F
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-json\oembed\1.0\embed-36.json
+Content Type: application/json
+
+Uri: http://sacon.edu.in/wp-json/oembed/1.0/embed?url=http:%2F%2Fsacon.edu.in%2Fevent%2Fmuhs-sport-compitition%2F&format=xml
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-json\oembed\1.0\embed-36.xml
+Content Type: text/xml
+
+Uri: http://sacon.edu.in/wp-content/uploads/essential-addons-elementor/b1870e5b4.min.js?ver=1627888609
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\essential-addons-elementor\b1870e5b4.min.js
+Content Type: application/javascript
+
+Uri: http://sacon.edu.in/event/national-conference/feed/
+File Name: C:\Downloaded Web Sites\sacon.edu.in\event\national-conference\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: http://sacon.edu.in/wp-content/uploads/essential-addons-elementor/89030d065.min.css?ver=1627888613
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\essential-addons-elementor\89030d065.min.css
+Content Type: text/css
+
+Uri: http://sacon.edu.in/event/recent-advances-trends-in-cardiac-care/
+File Name: C:\Downloaded Web Sites\sacon.edu.in\event\recent-advances-trends-in-cardiac-care\index.htm
+Content Type: text/html
+
+Uri: http://sacon.edu.in/wp-json/oembed/1.0/embed?url=http:%2F%2Fsacon.edu.in%2Fevent%2Fnational-conference%2F
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-json\oembed\1.0\embed-37.json
+Content Type: application/json
+
+Uri: http://sacon.edu.in/wp-json/oembed/1.0/embed?url=http:%2F%2Fsacon.edu.in%2Fevent%2Fnational-conference%2F&format=xml
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-json\oembed\1.0\embed-37.xml
+Content Type: text/xml
+
+Uri: http://sacon.edu.in/wp-content/uploads/2019/10/NATIONAL-CONFERENCE-BROCHURE.pdf
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\2019\10\NATIONAL-CONFERENCE-BROCHURE.pdf
+Content Type: application/pdf
+
+Uri: http://sacon.edu.in/wp-content/uploads/elementor/thumbs/Untitled-1-ogy3i7oqs3au8rrqapcxynydlkmmbty21rz7kp9l1s.jpg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\elementor\thumbs\Untitled-1-ogy3i7oqs3au8rrqapcxynydlkmmbty21rz7kp9l1s.jpg
+Content Type: image/jpeg
+
+Uri: http://sacon.edu.in/wp-content/uploads/essential-addons-elementor/89030d065.min.js?ver=1627888613
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\essential-addons-elementor\89030d065.min.js
+Content Type: application/javascript
+
+Uri: http://sacon.edu.in/2019/09/14/hello-world-6/feed/
+File Name: C:\Downloaded Web Sites\sacon.edu.in\2019\09\14\hello-world-6\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: http://sacon.edu.in/wp-content/uploads/essential-addons-elementor/4fb954b6b.min.css?ver=1627888619
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\essential-addons-elementor\4fb954b6b.min.css
+Content Type: text/css
+
+Uri: http://sacon.edu.in/2019/10/18/at-vero-eos-et-accusamus-et-iusto-odio-dignissimos-ducimus-qui/
+File Name: C:\Downloaded Web Sites\sacon.edu.in\2019\10\18\at-vero-eos-et-accusamus-et-iusto-odio-dignissimos-ducimus-qui\index.htm
+Content Type: text/html
+
+Uri: http://sacon.edu.in/wp-json/oembed/1.0/embed?url=http:%2F%2Fsacon.edu.in%2F2019%2F09%2F14%2Fhello-world-6%2F
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-json\oembed\1.0\embed-38.json
+Content Type: application/json
+
+Uri: http://sacon.edu.in/wp-json/oembed/1.0/embed?url=http:%2F%2Fsacon.edu.in%2F2019%2F09%2F14%2Fhello-world-6%2F&format=xml
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-json\oembed\1.0\embed-38.xml
+Content Type: text/xml
+
+Uri: http://sacon.edu.in/author/sawan/
+File Name: C:\Downloaded Web Sites\sacon.edu.in\author\sawan\index.htm
+Content Type: text/html
+
+Uri: http://sacon.edu.in/category/blogs/
+File Name: C:\Downloaded Web Sites\sacon.edu.in\category\blogs\index.htm
+Content Type: text/html
+
+Uri: http://sacon.edu.in/2019/09/14/hello-world-3/
+File Name: C:\Downloaded Web Sites\sacon.edu.in\2019\09\14\hello-world-3\index.htm
+Content Type: text/html
+
+Uri: http://sacon.edu.in/wp-content/uploads/2019/09/tyler-callahan-662157-unsplash-900x500-300x167.jpg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\2019\09\tyler-callahan-662157-unsplash-900x500-300x167.jpg
+Content Type: image/jpeg
+
+Uri: http://sacon.edu.in/wp-content/uploads/2019/09/working-700x450-300x193.jpg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\2019\09\working-700x450-300x193.jpg
+Content Type: image/jpeg
+
+Uri: http://sacon.edu.in/wp-content/uploads/2019/09/ellehem-693-unsplash-900x500-300x167.jpg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\2019\09\ellehem-693-unsplash-900x500-300x167.jpg
+Content Type: image/jpeg
+
+Uri: http://sacon.edu.in/wp-content/uploads/essential-addons-elementor/4fb954b6b.min.js?ver=1627888619
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\essential-addons-elementor\4fb954b6b.min.js
+Content Type: application/javascript
+
+Uri: http://sacon.edu.in/wp-content/uploads/2019/09/fancycrave-270977-unsplash-900x500-300x167.jpg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\2019\09\fancycrave-270977-unsplash-900x500-300x167.jpg
+Content Type: image/jpeg
+
+Uri: http://sacon.edu.in/wp-content/uploads/2019/09/fancycrave-270977-unsplash-900x500-768x427.jpg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\2019\09\fancycrave-270977-unsplash-900x500-768x427.jpg
+Content Type: image/jpeg
+
+Uri: http://sacon.edu.in/wp-content/uploads/2019/09/tyler-callahan-662157-unsplash-900x500-768x427.jpg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\2019\09\tyler-callahan-662157-unsplash-900x500-768x427.jpg
+Content Type: image/jpeg
+
+Uri: http://sacon.edu.in/wp-content/uploads/2019/09/working-700x450.jpg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\2019\09\working-700x450.jpg
+Content Type: image/jpeg
+
+Uri: http://sacon.edu.in/wp-content/uploads/2019/09/ellehem-693-unsplash-900x500-768x427.jpg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\2019\09\ellehem-693-unsplash-900x500-768x427.jpg
+Content Type: image/jpeg
+
+Uri: http://sacon.edu.in/2019/09/14/hello-world-5/feed/
+File Name: C:\Downloaded Web Sites\sacon.edu.in\2019\09\14\hello-world-5\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: http://sacon.edu.in/wp-content/uploads/essential-addons-elementor/7b5fab626.min.css?ver=1627888626
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\essential-addons-elementor\7b5fab626.min.css
+Content Type: text/css
+
+Uri: http://sacon.edu.in/wp-json/oembed/1.0/embed?url=http:%2F%2Fsacon.edu.in%2F2019%2F09%2F14%2Fhello-world-5%2F
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-json\oembed\1.0\embed-39.json
+Content Type: application/json
+
+Uri: http://sacon.edu.in/wp-json/oembed/1.0/embed?url=http:%2F%2Fsacon.edu.in%2F2019%2F09%2F14%2Fhello-world-5%2F&format=xml
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-json\oembed\1.0\embed-39.xml
+Content Type: text/xml
+
+Uri: http://sacon.edu.in/wp-content/uploads/essential-addons-elementor/7b5fab626.min.js?ver=1627888626
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\essential-addons-elementor\7b5fab626.min.js
+Content Type: application/javascript
+
+Uri: https://socialflix.in/
+File Name: C:\Downloaded Web Sites\sacon.edu.in\index-2.htm
+Content Type: text/html
+
+Uri: http://sacon.edu.in/wp-content/uploads/2019/11/WhatsApp-Image-2019-11-19-at-12.43.54-PM.jpeg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\2019\11\WhatsApp-Image-2019-11-19-at-12.43.54-PM.jpeg
+Content Type: image/jpeg
+
+Uri: http://sacon.edu.in/wp-content/uploads/2019/11/WhatsApp-Image-2019-11-08-at-4.05.40-PM.jpeg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\2019\11\WhatsApp-Image-2019-11-08-at-4.05.40-PM.jpeg
+Content Type: image/jpeg
+
+Uri: http://sacon.edu.in/wp-content/uploads/2019/11/WhatsApp-Image-2019-11-08-at-4.05.39-PM.jpeg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\2019\11\WhatsApp-Image-2019-11-08-at-4.05.39-PM.jpeg
+Content Type: image/jpeg
+
+Uri: http://sacon.edu.in/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.eot
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://sacon.edu.in/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.eot?
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://sacon.edu.in/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: http://sacon.edu.in/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.woff
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.woff
+Content Type: font/woff
+
+Uri: http://sacon.edu.in/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: http://sacon.edu.in/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.svg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: http://sacon.edu.in/wp-content/uploads/2020/01/bsc-photo_compressed-scaled.jpg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\2020\01\bsc-photo_compressed-scaled.jpg
+Content Type: image/jpeg
+
+Uri: http://sacon.edu.in/wp-content/uploads/2020/01/pbbsc-photo_compressed-scaled.jpg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\2020\01\pbbsc-photo_compressed-scaled.jpg
+Content Type: image/jpeg
+
+Uri: http://sacon.edu.in/wp-content/uploads/essential-addons-elementor/0b6887143.min.css?ver=1627889091
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\essential-addons-elementor\0b6887143.min.css
+Content Type: text/css
+
+Uri: http://sacon.edu.in/wp-content/uploads/elementor/css/post-336.css?ver=1605919851
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\elementor\css\post-336.css
+Content Type: text/css
+
+Uri: http://sacon.edu.in/wp-json/oembed/1.0/embed?url=http:%2F%2Fsacon.edu.in%2Fstudents%2F
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-json\oembed\1.0\embed-40.json
+Content Type: application/json
+
+Uri: http://sacon.edu.in/wp-json/oembed/1.0/embed?url=http:%2F%2Fsacon.edu.in%2Fstudents%2F&format=xml
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-json\oembed\1.0\embed-40.xml
+Content Type: text/xml
+
+Uri: http://sacon.edu.in/wp-content/uploads/essential-addons-elementor/0b6887143.min.js?ver=1627889091
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\essential-addons-elementor\0b6887143.min.js
+Content Type: application/javascript
+
+Uri: http://sacon.edu.in/wp-content/uploads/2019/09/1.jpg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\2019\09\1.jpg
+Content Type: image/jpeg
+
+Uri: http://sacon.edu.in/wp-content/plugins/pdf-embedder/img/toolbarButton-pageUp.png
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\plugins\pdf-embedder\img\toolbarButton-pageUp.png
+Content Type: image/png
+
+Uri: http://sacon.edu.in/wp-content/plugins/pdf-embedder/img/toolbarButton-pageDown.png
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\plugins\pdf-embedder\img\toolbarButton-pageDown.png
+Content Type: image/png
+
+Uri: http://sacon.edu.in/wp-content/plugins/pdf-embedder/img/toolbarButton-zoomOut.png
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\plugins\pdf-embedder\img\toolbarButton-zoomOut.png
+Content Type: image/png
+
+Uri: http://sacon.edu.in/wp-content/plugins/pdf-embedder/img/toolbarButton-zoomIn.png
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\plugins\pdf-embedder\img\toolbarButton-zoomIn.png
+Content Type: image/png
+
+Uri: http://sacon.edu.in/wp-content/plugins/pdf-embedder/img/toolbarButton-presentationMode.png
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\plugins\pdf-embedder\img\toolbarButton-presentationMode.png
+Content Type: image/png
+
+Uri: http://sacon.edu.in/wp-content/plugins/pdf-embedder/img/toolbarButton-download.png
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\plugins\pdf-embedder\img\toolbarButton-download.png
+Content Type: image/png
+
+Uri: http://sacon.edu.in/wp-content/uploads/2020/01/IMG_20191119_145113_compressed-scaled.jpg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\2020\01\IMG_20191119_145113_compressed-scaled.jpg
+Content Type: image/jpeg
+
+Uri: http://sacon.edu.in/wp-content/uploads/2020/01/FACULTY-PHOTO.jpg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\2020\01\FACULTY-PHOTO.jpg
+Content Type: image/jpeg
+
+Uri: http://sacon.edu.in/wp-content/uploads/2019/11/WhatsApp-Image-2019-11-18-at-6.27.40-PM.jpeg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\2019\11\WhatsApp-Image-2019-11-18-at-6.27.40-PM.jpeg
+Content Type: image/jpeg
+
+Uri: http://sacon.edu.in/wp-content/uploads/2019/10/WhatsApp-Image-2019-10-24-at-3.57.02-PM.jpeg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\2019\10\WhatsApp-Image-2019-10-24-at-3.57.02-PM.jpeg
+Content Type: image/jpeg
+
+Uri: http://sacon.edu.in/wp-content/uploads/essential-addons-elementor/41a07179a.min.css?ver=1627889287
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\essential-addons-elementor\41a07179a.min.css
+Content Type: text/css
+
+Uri: http://sacon.edu.in/wp-content/uploads/essential-addons-elementor/41a07179a.min.js?ver=1627889287
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\essential-addons-elementor\41a07179a.min.js
+Content Type: application/javascript
+
+Uri: http://sacon.edu.in/wp-content/uploads/2019/10/WhatsApp-Image-2019-10-04-at-12.39.19-PM.jpeg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\2019\10\WhatsApp-Image-2019-10-04-at-12.39.19-PM.jpeg
+Content Type: image/jpeg
+
+Uri: http://sacon.edu.in/wp-content/uploads/2019/10/2.jpg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\2019\10\2.jpg
+Content Type: image/jpeg
+
+Uri: http://sacon.edu.in/wp-content/uploads/2019/10/2-1.jpg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\2019\10\2-1.jpg
+Content Type: image/jpeg
+
+Uri: http://sacon.edu.in/wp-content/uploads/2019/10/WhatsApp-Image-2019-10-04-at-12.28.15-PM-e1570172916752.jpeg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\2019\10\WhatsApp-Image-2019-10-04-at-12.28.15-PM-e1570172916752.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.google.com/maps/embed?origin=mfe&pb=!1m4!2m1!1sSt.+Andrews+College+of+Nursing,+283,+Dinkarrav+Javalkar+Rd,+Sathe+Colony,+Shukrawar+Peth,+Pune,+Maharashtra+411002!5e0!6i14
+File Name: C:\Downloaded Web Sites\sacon.edu.in\maps\embed.html
+Content Type: text/html
+
+Uri: http://sacon.edu.in/wp-content/uploads/essential-addons-elementor/7a1229cd3.min.css?ver=1627889405
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\essential-addons-elementor\7a1229cd3.min.css
+Content Type: text/css
+
+Uri: http://sacon.edu.in/wp-content/uploads/elementor/css/post-1074.css?ver=1604652273
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\elementor\css\post-1074.css
+Content Type: text/css
+
+Uri: http://sacon.edu.in/wp-content/uploads/2019/10/Untitled-1.jpg
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\2019\10\Untitled-1.jpg
+Content Type: image/jpeg
+
+Uri: http://sacon.edu.in/wp-content/uploads/essential-addons-elementor/7a1229cd3.min.js?ver=1627889405
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\essential-addons-elementor\7a1229cd3.min.js
+Content Type: application/javascript
+
+Uri: http://sacon.edu.in/wp-content/uploads/essential-addons-elementor/15019c66d.min.css?ver=1627889421
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\essential-addons-elementor\15019c66d.min.css
+Content Type: text/css
+
+Uri: http://sacon.edu.in/wp-content/uploads/essential-addons-elementor/15019c66d.min.js?ver=1627889421
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\essential-addons-elementor\15019c66d.min.js
+Content Type: application/javascript
+
+Uri: http://sacon.edu.in/wp-content/uploads/essential-addons-elementor/9f601c25e.min.css?ver=1627889436
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\essential-addons-elementor\9f601c25e.min.css
+Content Type: text/css
+
+Uri: http://sacon.edu.in/wp-json/oembed/1.0/embed?url=http:%2F%2Fsacon.edu.in%2Fevent%2Frecent-advances-trends-in-cardiac-care%2F
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-json\oembed\1.0\embed-41.json
+Content Type: application/json
+
+Uri: http://sacon.edu.in/wp-json/oembed/1.0/embed?url=http:%2F%2Fsacon.edu.in%2Fevent%2Frecent-advances-trends-in-cardiac-care%2F&format=xml
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-json\oembed\1.0\embed-41.xml
+Content Type: text/xml
+
+Uri: http://sacon.edu.in/wp-content/uploads/elementor/css/post-2068.css?ver=1604886327
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\elementor\css\post-2068.css
+Content Type: text/css
+
+Uri: http://sacon.edu.in/wp-content/uploads/essential-addons-elementor/9f601c25e.min.js?ver=1627889436
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\essential-addons-elementor\9f601c25e.min.js
+Content Type: application/javascript
+
+Uri: http://sacon.edu.in/2019/10/18/at-vero-eos-et-accusamus-et-iusto-odio-dignissimos-ducimus-qui/feed/
+File Name: C:\Downloaded Web Sites\sacon.edu.in\2019\10\18\at-vero-eos-et-accusamus-et-iusto-odio-dignissimos-ducimus-qui\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: http://sacon.edu.in/wp-content/uploads/essential-addons-elementor/c67bf8f97.min.css?ver=1627889452
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\essential-addons-elementor\c67bf8f97.min.css
+Content Type: text/css
+
+Uri: http://sacon.edu.in/2019/10/18/nam-libero-tempore-cum-soluta-nobis-est-eligendi/
+File Name: C:\Downloaded Web Sites\sacon.edu.in\2019\10\18\nam-libero-tempore-cum-soluta-nobis-est-eligendi\index.htm
+Content Type: text/html
+
+Uri: http://sacon.edu.in/wp-json/oembed/1.0/embed?url=http:%2F%2Fsacon.edu.in%2F2019%2F10%2F18%2Fat-vero-eos-et-accusamus-et-iusto-odio-dignissimos-ducimus-qui%2F
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-json\oembed\1.0\embed-42.json
+Content Type: application/json
+
+Uri: http://sacon.edu.in/wp-json/oembed/1.0/embed?url=http:%2F%2Fsacon.edu.in%2F2019%2F10%2F18%2Fat-vero-eos-et-accusamus-et-iusto-odio-dignissimos-ducimus-qui%2F&format=xml
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-json\oembed\1.0\embed-42.xml
+Content Type: text/xml
+
+Uri: http://sacon.edu.in/category/notice/
+File Name: C:\Downloaded Web Sites\sacon.edu.in\category\notice\index.htm
+Content Type: text/html
+
+Uri: http://sacon.edu.in/2019/10/18/rerum-facilis-est-et-expedita-distinctio-nam-libero-tempore/
+File Name: C:\Downloaded Web Sites\sacon.edu.in\2019\10\18\rerum-facilis-est-et-expedita-distinctio-nam-libero-tempore\index.htm
+Content Type: text/html
+
+Uri: http://sacon.edu.in/2019/10/18/officiis-debitis-aut-rerum-necessitatibus-saepe-eveniet/
+File Name: C:\Downloaded Web Sites\sacon.edu.in\2019\10\18\officiis-debitis-aut-rerum-necessitatibus-saepe-eveniet\index.htm
+Content Type: text/html
+
+Uri: http://sacon.edu.in/wp-content/uploads/essential-addons-elementor/c67bf8f97.min.js?ver=1627889452
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\essential-addons-elementor\c67bf8f97.min.js
+Content Type: application/javascript
+
+Uri: http://sacon.edu.in/author/sawan/feed/
+File Name: C:\Downloaded Web Sites\sacon.edu.in\author\sawan\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: http://sacon.edu.in/wp-content/uploads/essential-addons-elementor/40e4f8434.min.css?ver=1627889465
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\essential-addons-elementor\40e4f8434.min.css
+Content Type: text/css
+
+Uri: http://sacon.edu.in/wp-content/uploads/essential-addons-elementor/40e4f8434.min.js?ver=1627889465
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\essential-addons-elementor\40e4f8434.min.js
+Content Type: application/javascript
+
+Uri: http://sacon.edu.in/category/blogs/feed/
+File Name: C:\Downloaded Web Sites\sacon.edu.in\category\blogs\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: http://sacon.edu.in/wp-content/uploads/essential-addons-elementor/98de8f59f.min.css?ver=1627889473
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\essential-addons-elementor\98de8f59f.min.css
+Content Type: text/css
+
+Uri: http://sacon.edu.in/wp-content/uploads/essential-addons-elementor/98de8f59f.min.js?ver=1627889473
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\essential-addons-elementor\98de8f59f.min.js
+Content Type: application/javascript
+
+Uri: http://sacon.edu.in/2019/09/14/hello-world-3/feed/
+File Name: C:\Downloaded Web Sites\sacon.edu.in\2019\09\14\hello-world-3\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: http://sacon.edu.in/wp-content/uploads/essential-addons-elementor/88e19bee5.min.css?ver=1627889479
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\essential-addons-elementor\88e19bee5.min.css
+Content Type: text/css
+
+Uri: http://sacon.edu.in/wp-json/oembed/1.0/embed?url=http:%2F%2Fsacon.edu.in%2F2019%2F09%2F14%2Fhello-world-3%2F
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-json\oembed\1.0\embed-43.json
+Content Type: application/json
+
+Uri: http://sacon.edu.in/wp-json/oembed/1.0/embed?url=http:%2F%2Fsacon.edu.in%2F2019%2F09%2F14%2Fhello-world-3%2F&format=xml
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-json\oembed\1.0\embed-43.xml
+Content Type: text/xml
+
+Uri: http://sacon.edu.in/wp-content/uploads/essential-addons-elementor/88e19bee5.min.js?ver=1627889479
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\essential-addons-elementor\88e19bee5.min.js
+Content Type: application/javascript
+
+Uri: http://sacon.edu.in/2019/10/18/nam-libero-tempore-cum-soluta-nobis-est-eligendi/feed/
+File Name: C:\Downloaded Web Sites\sacon.edu.in\2019\10\18\nam-libero-tempore-cum-soluta-nobis-est-eligendi\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: http://sacon.edu.in/wp-content/uploads/essential-addons-elementor/15bb97169.min.css?ver=1627890460
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\essential-addons-elementor\15bb97169.min.css
+Content Type: text/css
+
+Uri: http://sacon.edu.in/wp-json/oembed/1.0/embed?url=http:%2F%2Fsacon.edu.in%2F2019%2F10%2F18%2Fnam-libero-tempore-cum-soluta-nobis-est-eligendi%2F
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-json\oembed\1.0\embed-44.json
+Content Type: application/json
+
+Uri: http://sacon.edu.in/wp-json/oembed/1.0/embed?url=http:%2F%2Fsacon.edu.in%2F2019%2F10%2F18%2Fnam-libero-tempore-cum-soluta-nobis-est-eligendi%2F&format=xml
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-json\oembed\1.0\embed-44.xml
+Content Type: text/xml
+
+Uri: http://sacon.edu.in/wp-content/uploads/essential-addons-elementor/15bb97169.min.js?ver=1627890460
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\essential-addons-elementor\15bb97169.min.js
+Content Type: application/javascript
+
+Uri: http://sacon.edu.in/category/notice/feed/
+File Name: C:\Downloaded Web Sites\sacon.edu.in\category\notice\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: http://sacon.edu.in/wp-content/uploads/essential-addons-elementor/e01deb8e8.min.css?ver=1627890470
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\essential-addons-elementor\e01deb8e8.min.css
+Content Type: text/css
+
+Uri: http://sacon.edu.in/wp-content/uploads/essential-addons-elementor/e01deb8e8.min.js?ver=1627890470
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\essential-addons-elementor\e01deb8e8.min.js
+Content Type: application/javascript
+
+Uri: http://sacon.edu.in/2019/10/18/rerum-facilis-est-et-expedita-distinctio-nam-libero-tempore/feed/
+File Name: C:\Downloaded Web Sites\sacon.edu.in\2019\10\18\rerum-facilis-est-et-expedita-distinctio-nam-libero-tempore\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: http://sacon.edu.in/wp-content/uploads/essential-addons-elementor/fe1f1ec1a.min.css?ver=1627890476
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\essential-addons-elementor\fe1f1ec1a.min.css
+Content Type: text/css
+
+Uri: http://sacon.edu.in/wp-json/oembed/1.0/embed?url=http:%2F%2Fsacon.edu.in%2F2019%2F10%2F18%2Frerum-facilis-est-et-expedita-distinctio-nam-libero-tempore%2F
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-json\oembed\1.0\embed-45.json
+Content Type: application/json
+
+Uri: http://sacon.edu.in/wp-json/oembed/1.0/embed?url=http:%2F%2Fsacon.edu.in%2F2019%2F10%2F18%2Frerum-facilis-est-et-expedita-distinctio-nam-libero-tempore%2F&format=xml
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-json\oembed\1.0\embed-45.xml
+Content Type: text/xml
+
+Uri: http://sacon.edu.in/wp-content/uploads/essential-addons-elementor/fe1f1ec1a.min.js?ver=1627890476
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\essential-addons-elementor\fe1f1ec1a.min.js
+Content Type: application/javascript
+
+Uri: http://sacon.edu.in/2019/10/18/officiis-debitis-aut-rerum-necessitatibus-saepe-eveniet/feed/
+File Name: C:\Downloaded Web Sites\sacon.edu.in\2019\10\18\officiis-debitis-aut-rerum-necessitatibus-saepe-eveniet\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: http://sacon.edu.in/wp-content/uploads/essential-addons-elementor/a2b10e31b.min.css?ver=1627890481
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\essential-addons-elementor\a2b10e31b.min.css
+Content Type: text/css
+
+Uri: http://sacon.edu.in/wp-json/oembed/1.0/embed?url=http:%2F%2Fsacon.edu.in%2F2019%2F10%2F18%2Fofficiis-debitis-aut-rerum-necessitatibus-saepe-eveniet%2F
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-json\oembed\1.0\embed-46.json
+Content Type: application/json
+
+Uri: http://sacon.edu.in/wp-json/oembed/1.0/embed?url=http:%2F%2Fsacon.edu.in%2F2019%2F10%2F18%2Fofficiis-debitis-aut-rerum-necessitatibus-saepe-eveniet%2F&format=xml
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-json\oembed\1.0\embed-46.xml
+Content Type: text/xml
+
+Uri: http://sacon.edu.in/wp-content/uploads/essential-addons-elementor/a2b10e31b.min.js?ver=1627890481
+File Name: C:\Downloaded Web Sites\sacon.edu.in\wp-content\uploads\essential-addons-elementor\a2b10e31b.min.js
+Content Type: application/javascript
+
